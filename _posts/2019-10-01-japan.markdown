@@ -5,6 +5,8 @@ tags:
   - asia 
   - japan
   - tokyo
+  - kyoto
+  - osaka
 image: /assets/images/japan/hero4.png
 ---
 
@@ -227,3 +229,4 @@ Religion in Japan
 Ekiben
 Shinkansen
 Wear good socks
+Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=Tokyo-Tokyo-Japan
