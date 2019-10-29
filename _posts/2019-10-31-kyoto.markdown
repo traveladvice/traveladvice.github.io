@@ -1,0 +1,12 @@
+---
+title:  "Kyoto"
+date:   2019-10-31 10:29:39 -0700
+tags: 
+  - asia 
+  - japan
+  - kyoto
+image: /assets/images/japan/hero4.png
+---
+
+
+## Placeholder for article about Kyoto
