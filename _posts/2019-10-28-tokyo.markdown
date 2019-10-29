@@ -1,0 +1,127 @@
+---
+title:  "Tokyo"
+date:   2019-10-28 10:29:39 -0700
+tags: 
+  - asia 
+  - japan
+  - tokyo
+image: /assets/images/japan/hero4.png
+---
+
+
+
+## Getting to Tokyo
+Depending on where you’re staying in Tokyo, you’ll need to change up what your transportation is.  I’ll provide brief details on Haneda and more information on Narita.
+### Travelling from Haneda
+You’ll likely want to take the Keikyu-Kuko Line or the Tokyo Monorail into town to either your destination or a major train station to proceed on.
+### Travelling from Narita
+There are many different options when going from Narita to Tokyo including the Narita Express, busses, the Keisei and Sobu Lines, and taxis.  A taxi ride from Narita to Tokyo is very expensive so I would recommend avoiding it.  There are a few different bus lines that will get you from Narita to Tokyo Station as well as assorted other places.  I have always taken the Narita Express which goes to Tokyo Station as well as Shinagawa Station which is super convenient if you’re staying at the Intercontinental Strings by the Microsoft office.
+
+After arriving in Narita, you’ll go through customs (you’ll need to have filled out a form which you should get on the plane).  After customs, you’ll proceed towards baggage claim and then out into the transportation area.  Immediately after exiting baggage to Transportation is where you can exchange your USD for Yen if that’s your plan. To get on the train, look for the [JR East Ticket Travel Center](http://www.jreast.co.jp/e/stations/e1130.html).  It should have a green sign and be near the escalators going down.  They’ll speak English and will be able to tell you which Narita Express you’ll be able to get on. There may also be an agent working the line asking in advance where you’re headed and how you’ll be paying; you can use credit cards here. All trains should stop at Shinagawa station but you’ll want to make sure you specify that as your destination so they’ll put you in the right car.  
+You may be able to buy a round trip ticket but for best flexibility, I usually wait until I’m ready to head back to the airport before I buy my return ticket.  Make sure you hold on to your ticket after you board.
+
+After buying your ticket, head down the nearby escalator and follow signs for the correct platform.  On the first level down, you should see a Starbucks.  If you go to the front of that Starbucks and turn left, you’ll walk forward and go through the gate with your ticket to go down to where you’ll wait for the Narita Express.  There will be signs for car numbers so make sure you line up in the right place for the car you’re on.  The Narita Express is assigned car and seats.  Note that if you decide to get a coffee at the Starbucks (I do), you’re very likely to be holding on to that cup for a good while because they don’t have a lot of [garbage cans](http://jpninfo.com/54373).  Also, in general people do not walk and drink or eat things.  You won’t get dirty looks but again, you won’t find a garbage can and you should not litter.  Also worth noting not to get on the train until it’s been cleaned. If you get on too early, even after current passengers have exited, you’ll be asked to get off the train while they clean it (and turn the seats around to face the direction in which the train will depart).
+From Narita, you’ll have very few stops on the way to either Tokyo Station or Shinagawa.  There may be another terminal stop but after that, the next stop is Tokyo Station, immediately followed by Shinagawa.  It takes a bit over an hour for Tokyo Station and about an hour and a half for Shinagawa.  
+
+## Getting to the Strings Intercontinental
+
+If you’re staying at the Strings, follow the above advice, and hold on to your ticket.  When you get to [Shinagawa station](http://www.jreast.co.jp/e/stations/e788.html), go up the stairs and proceed forward, through the ticket gates to the Central Gate.  You’ll go right and follow signs for the East Exit.  It’ll be a bit of a walk but you will eventually emerge outside.  Welcome to Japan!  As soon you get outside, you’ll follow the elevated platform to the right.  The very first building after you leave the Shinagawa Station tower is the Shinagawa East One Tower and where the Strings hotel is.  Bypass the first door you see and go to the second door  which has the sign for the hotel.  You should pass a 7-11 on your way in the doors to the tower.  Go left after the doors and at the end of the hallway you’ll take the elevators on your left to the lobby.
+
+![Map from Shinagawa Station to Strings](/assets/images/japan/japan-shinagawa-station-to-strings.png "Map from Shinagawa Station to Strings")
+
+
+
+### Getting from Shinagawa to the Prince Park Tower Tokyo
+
+If you’re traveling to Japan for De:code, which is held at the [Prince Park Tower Tokyo](http://www.princehotels.com/parktower/), there are a couple of ways to get there.  Since anyone doing so, is likely travelling for Microsoft and either staying by the office in Shinagawa or at the Prince Park Tower itself, I’ll provide instructions for getting between the two places.  My preferred option, unless taking luggage, is to take the train.  Between Shinagawa and the PPTT area, there are three separate lines you can take:  the green Yamanote, the red Keikyu, and the blue Keihintohoku.  All three will take less than 30 minutes from door to door.  From Shinagawa, all three trains will leave from Shinagawa station.  On your way to / from the PPTT area, the red Keikyu line starts and terminates at Daimon station.  The green Yamanote and the blue Keihintohoku lines start and terminate at Hamamatsucho.  Between the PPTT Hotel and either of those stations, you’ll have a 10 - 15 minute walk.  The second option is to take a cab.  This is very straightforward when leaving PPTT as taxis wait right outside of the hotel front door.  You may need to get assistance from the Strings (where the lobby is not on the ground floor).  Additionally, and as pointed out elsewhere, don’t get in a taxi and expect them to understand what you mean when you say the name of a hotel.  It’s best to ask the concierge, greeter, or other hotel employee to provide the driver instructions on where you are going.
+
+### Getting To Narita from Tokyo
+
+When you’re ready to leave Tokyo and return to Narita, it should be quite easy.  Again, the easiest way is to take the Narita Express.  If you are not close to either Tokyo or Shinagawa stations, you should first get to one of those.  Once in Tokyo Station, look for a JR Ticket Office where you can buy your Narita Express pass.  If you’re leaving from Shinagawa, once you enter the station, walk past the Atre shops near the entrance, continue past the Shinkansen north gate on your right side, and immediately after should be the JR Ticket Office (see above diagram).  Purchase your Narita Express ticket.  You’ll then proceed further into the station and through the ticket gates on the left.  Then you can proceed to the Narita Express boarding platform (should be 13 or 14 and DOES share the platform with other trains).
+
+
+## Getting Around Tokyo
+
+### Trains
+
+By far the easiest way to get around the city is the train system.  They are efficient, on-time, clean, quiet, and organized.  There are a number of lines that run around the Tokyo area and are operated by different companies.  For the most part, you can pretty easily get around on the JR Rail company lines though sometimes you’ll end up needing to hop on a different line like the Tokyo Metro.  The first time you venture into a big station, like Shinagawa, you might feel a bit overwhelmed, but it’ll become very easy.  All of the signs are in English and all of the lines are color based with the direction of the line (i.e. the green Yamanote line towards Shibuya vs towards Tokyo (station)).  At times, the more confusing thing can be either finding your way out of the train station (Shibuya) or finding your way from one train to another when you are connecting lines.  Just relax and you’ll figure it out.  From a tourist perspective, [this map](https://www.jreast.co.jp/E/downloads/pdf/tokyo_map_e.pdf) is pretty useful as it shows the JR Rail Lines and the tourist attractions near them.  For the most part, don’t worry too much about running to catch a train as you won’t wait very long for the next train.  Some of these run every 2.5 minutes during rush hour.  On the rush hour note, unless you like people, you might avoid taking trains during the busiest parts of the day.  
+
+On the topic of paying for trains, you’ll want to go a few minutes early to your first station, or spend the time at the airport picking up a Pasmo or Suica card.  To buy one, once you get to the station, find the machines that specify they sell [Pasmo](https://www.pasmo.co.jp/en/) / [Suica](http://www.jreast.co.jp/e/pass/suica.html) cards.  You’ll then follow some simple instructions, don’t worry they have an English button.  Additionally, you can review [this very handy guide](https://www.pasmo.co.jp/en/buy/) explaining how to buy a card.  I believe you can [buy a Suica card online](https://www.japan-rail-pass.com/services/suica-card) though I don’t have experience with it.  Note, you’ll NEED yen.  I believe it’s possible for residents to pay with their credit cards and mobile phones but you’ll need cold hard yen in order to pay for your travel card and top it up (using the same machines).  Once you have a card, you can go through the agentless gates where you’ll tap the machine on your way through and then tap when you exit the next station.  One thing to note is that it is possible to get into a place where you can’t exit because the exit is associated with a line that isn’t supported by your Pasmo / Suica.  If this happens, just look for the booth near the ticket gates that has an agent in it and ask for help.  You may need to pay in yen so make sure you have some on you.
+
+Also, make sure you’re following proper etiquette.  Don’t talk on your cell phone.  Don’t have a loud conversation.  Maybe try relaxing and don’t talk at all.  Don’t eat or drink.  Don’t take a priority seat unless you have reason to.  When waiting to get on a train, stand to the side of the doors and never block people from getting off.  Lastly, remember that trains DO shut down at night.  Either make sure you’ll be back before they do or be ready to pay for a cab.
+
+### Taxis and Ubers?
+
+They both exist and are usable but there are a couple caveats.  First and foremost, they’re expensive.  As an example, if you took a cab instead of the Narita Express, you’d probably pay over $300 (and your manager will be unhappy).  If you’re looking for a short trip though, they can be a viable option.  Most cab drivers will not speak English.  You might think you can hop in a taxi and tell them the name of your hotel and they’ll get it, but don’t count on it.  In general, I suggest asking for the assistance of your hotel bell person to tell the driver where to go, or have the name in Japanese pulled up (this will NOT be guaranteed to work).  Additionally, you may find that cab drivers may avoid pulling over to pick you up if you’re trying to hail them in the city.  I believe this is more to do with their inability to speak English and feel like they can’t help you more than anything else.  If this happens, find a hotel, ask the bell person to hail a cab for you and tell the driver where to go.  With no need to communicate, Ubers can be easier though I haven’t tried it.
+
+## Where to Stay
+
+Wherever it’s convenient!  I tend to stay in Shinagawa if I’m going for work as it’s close to the office and the trains will get you anywhere you need to go.  If I was travelling for vacation, I’d likely consider somewhere else as, outside of the Microsoft office and the train station, there isn’t a lot going on in Shinagawa (there’s actually a cool outdoor market, some restaurants, etc but not like the other neighborhoods).  Most major hotel chains can be found in Tokyo and you can also check Trip Advisor to see what’s highly rated.  If you leave Tokyo, I’d recommend trying to stay at a [Ryokan](https://en.wikipedia.org/wiki/Ryokan_(inn)) (traditional Japanese inn) if possible.
+
+## Neighborhoods
+
+### [Akihabara](https://www.japan-guide.com/e/e3003.html)
+
+Akihabara is extremely well known for their electronic stores in addition to anime and manga shops.  If you want to buy electronics in Japan, this is the place to go.  Yodobashi Camera is the largest store and features everything electronic you could imagine (there is a full floor dedicated to drones).  If you’re feeling like a beer while in Akihabara, I highly recommend the [Hitachino Brew Lab](https://goo.gl/maps/GyDK2hrFdEx) located across the river from most of the stores.  There is also a fun wine bar around the back of the same building.  Across the street (same side of river) from the building with the brew lab, is a [tall building with many restaurants in it](http://www.niku-mansei.com/foreign_language/index.html).  If you’re in the mood for some delicious grilled meat, I recommend the Korean BBQ joint on the 5th floor.  I couldn’t tell you what the grade of the Wagyu is, but I’ve had two amazing lunches there.
+
+### [Asakusa](https://www.japan-guide.com/e/e3004.html)
+
+Asakusa is very well known because of [Senso-ji](https://www.japan-guide.com/e/e3004.html#sensoji) which is a very popular Buddhist temple.  Additionally, there are many small souvenir shops and other shopping streets in the nearby area.  There are also some very cool gates, gardens, and a giant pagoda in the immediate area.  The [Asahi Beer Tower](https://goo.gl/maps/bdSeZG5WPus) is also a not very far walk away where you can have a beer and look out from the near rooftop bar.  Despite being a bit far north, this is worth stopping by if only to see the temple and is easy to get to from Akihabara.
+
+### [Chiyoda](https://wikitravel.org/en/Tokyo/Chiyoda)
+
+Chiyoda isn’t an area that I’ve spent much time in but I do want to call it out for two reasons:  [Tokyo Station](http://www.tokyostationcity.com/en/) and the [Imperial Palace](https://www.japan-guide.com/e/e3017.html).  Normally, only the East Gardens are open to visit and you can’t actually see the Palace.  That said, the grounds, moat, bridges, and gardens are really amazing.  I believe there is a tour which MAY let you see more than just the gardens but you will want to do some research.   The palace is a bit of a walk from Tokyo Station or you can get off at the closer Takebashi station.  Tokyo Station is a central hub for rail lines in Tokyo, but it’s also much more.  The station is a shopping and dining destination.  You could easily spend hours eating and shopping here.  Highlights include [Ramen Street](https://tokyocheapo.com/food-and-drink/tokyo-ramen-street/) and the kit kat shop and the pokemon shop and the etc.
+
+### [Roppongi](https://www.japan-guide.com/e/e3031.html)
+
+Roppongi is a popular nightlife area of Tokyo and features many restaurants, bars, and nightclubs.  About a fifteen minute walk from the train station is [Gonpachi Nishiazabu](http://gonpachi.jp/?page_id=22) which inspired the restaurant scene from Kill Bill Vol 1.  It’s a fun environment and has a mixture of yakitori (meat on a stick), sushi, tempura, etc.  Reservations are recommended.  If you want a foreigner friendly beer bar, check out [BrewDog](https://www.brewdog.com/usa/bars/worldwide/roppongi) or [Two Dogs TapRoom](https://www.twodogs-tokyo.com/).  If you want to be just barely more adventurous, check out [Ant’n’Bee](https://www.tripadvisor.com.sg/Restaurant_Review-g1066451-d4044813-Reviews-Ant_n_Bee_Roppongi-Minato_Tokyo_Tokyo_Prefecture_Kanto.html) for some local craft beer.  Just a heads up though, it’s kind of basementy and they allow smoking inside (as they do many places).
+
+### [Shibuya](https://www.japan-guide.com/e/e3007.html)
+
+Shibuya is most well known for the [traffic intersection](https://www.google.com/search?biw=1394&bih=805&tbm=isch&sa=1&ei=M87wWrCdDY6ejwPTv6i4BQ&q=shibuya+crossing&oq=shibuya+crossing&gs_l=img.3..0l2j0i67k1l2j0l6.4380.5853.0.5947.11.4.1.5.5.0.72.241.4.4.0....0...1c.1.64.img..1.10.319...35i39k1.0.ra9rJfHJ9iI) outside the Hachiko Exit of Shibuya Station.  You’ll find lots of restaurants, shops, department stores, bars, and more within walking distance of the station.  This area is always very congested though, so take that into consideration.  
+While also in Shibuya, located further north than the intersection are both [Harajuku](https://www.japan-guide.com/e/e3006.html) and [Meiji Shrine](https://www.japan-guide.com/e/e3002.html).  Harajuku is famous for it’s shops and for Harajuku street and it’s [extreme fashion](https://www.google.com/search?q=harajuku&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXhK_smvXaAhUG42MKHYDsCokQ_AUoAXoECAAQAw&biw=1394&bih=805).  Highly worth a walk around and easily accessible from the nearby Harajuku Station.  Meiji Shrine is a giant outdoor park and shrine dedicated to former Emperor Meiji (the one that started the modernization of Japan). The shrine has very scenic walkways with [giant torii gates](https://www.japan-guide.com/e/e2059.html) and a very impressive temple and shrine in the center.  The entrance to Meiji is also accessible from nearby Harajuku Station.  
+
+### [Shinagawa](https://www.japan-guide.com/e/e3040.html)
+
+Shinagawa is popular because the train station connects to so many other lines.  As a result, many hotels, businesses, restaurants, and shops have popped up.  If you’re visiting the Microsoft office or staying at the Strings Intercontinental, they’re right outside the Konan exit.  Also, just outside of the station (out the other exit) is Shinagawa’s own [ramen street](https://tokyocheapo.com/food-and-drink/shinagawa-shinatatsu-ramen-street/).  Below the entrance to the Microsoft office, in the same building, you’ll find many small eateries including a good sushi place (actually moved across the skywalk).  Somewhere within the station itself, you’ll find a food court / food stall market with many fun options.  At end of the Konan exit you’ll find Blue Bottle Coffee and Starbucks,
+
+#### Ramen Street in Shinagawa
+
+Once you know where Shinagawa station is, you have an easy point of reference to Ramen Street. On the side opposite the Microsoft office (ie: out the West Exit - re-enter Shinagawa and just keep walking straight) you go down some stairs and are at street level. Walk left down the road and you’ll start to notice signs about a half-level down on the left. This is the famed Ramen Street. 
+
+#### Ordering Ramen at Ramen Street
+
+Best advice, watch somebody else do it. Absent that, you order it much like a vending machine. Put the correct amount (or more) of Yen in to the machine, push the buttons for what you would like to order, and push the button (usually orange) on the bottom-right of the LCD screen showing your current “credit amount” (not necessary if you put in exact change) - this ends your ordering and you’ll get “tickets” spit out along with any change. Get in line for the restaurant and a host/hostess will open the door when it is your turn and greet you asking how many people are in your party. Hand this person your tickets and take your seat as directed. They’ll bring your order to you when it’s ready. 
+
+### Shinjuku
+
+Data Missing
+
+### [Tsukiji](https://www.japan-guide.com/e/e3021.html)
+
+(See Update Below) Tsukiji is a giant indoor / outdoor market most well known for it being one of the largest fish markets in the world and the site of historic [tuna auctions](https://www.thewholeworldisaplayground.com/visit-tsukiji-fish-market-tuna-auction-tokyo-japan/).  There is both a outer and inner market.  The outer market is home to retail shops, restaurants, and food stalls.  The inner market is where the wholesale market is (i.e. where restaurateurs and department store buyers would go).  If you go to a good sushi restaurant in Tokyo, there’s a more than good chance the fish came from Tsukiji.  You can wander the outer market without any help, though I’d recommend a tour so you know what you’re seeing and don’t miss things.  The inner market is more restrictive and you almost certainly do not want to enter without a tour guide that knows what they’re doing.  If you’re looking for a tour, I’d highly recommend [this one](https://japanwondertravel.com/products/tokyo-foodrink-tour-tsukiji-fish-market) having done it twice.  It doesn’t do the tuna auction though they offer a different one that does (and starts at 2 am).
+
+**Important Update**:  Tsukiji is no longer home to the inner market.  In late 2018, the inner market at Tsukiji was finally relocated to the [Toyosu Market](https://tokyocheapo.com/entertainment/toyosu-fish-market-what-to-know/).  I haven’t yet been so can’t make any recommendations or suggestions but the same tour company offers a tour of both Toyosu and the outer Tsukiji market.  
+
+
+### [Ueno Park](https://www.japan-guide.com/e/e3019.html)
+
+Ueno park is a large park in central Tokyo which has several museums, shrines, food stalls, and more.  If you were visiting during Cherry Blossom season, this is quite likely where you would go.  Off season, there is still much to see and do.  The Tokyo National Museum has an excellent collection of Japanese art and history including samurai swords and armor.  
+
+## Restaurants and Bars
+
+I couldn’t possibly begin to list every place you might dine and drink in Japan.  The country has more Michelin Star restaurants than anywhere in the world and probably more restaurants per capita than anywhere else in the world, there are no shortage of places to eat of every variety.  Below are just a few places I can vouch for.
+
+
+* Ant’n’Bee - A basement local craft beer place.  Can be a bit smokey but very cool.
+* BrewDog Roppongi - One of BrewDog’s Tokyo outposts.  A good mix of beer they make around the world and in Japan.
+* Gonpachi - Yakitori restaurant that inspired the end scene in Kill Bill.
+* Hitachino Brew Lab - Great local craft beer.  There is one in Akihabara and a temporary popup in the Shinagawa station.
+* New York Bar - As seen in Lost in Translation, the well known bar at the top of the Park Hyatt hotel.  Expensive but the views are great.
+* [Ramen Street of Shinagawa](https://docs.google.com/document/d/1JaH--casy1twWBrAESZVmwGRC7vVEnduuGJgqIt2c_0/edit#heading=h.etm7px1kep2r) - See linked section for detailed info on location and ordering instructions.
+* Tofu-ya Ukai - A tofu focused kaiseki restaurant.  Dishes can be adventurous.  
+* Zoetrope - The best whiskey bar I’ve been to in Japan.
+
+## Things to Do and Agendas
+
+* To Be Added

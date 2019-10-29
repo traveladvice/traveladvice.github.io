@@ -1,0 +1,12 @@
+---
+title:  "Osaka"
+date:   2019-10-28 10:29:39 -0700
+tags: 
+  - asia 
+  - japan
+  - osaka
+image: /assets/images/japan/hero4.png
+---
+
+
+## Placeholder for article about Osaka
