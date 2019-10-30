@@ -7,7 +7,7 @@ tags:
   - tokyo
   - kyoto
   - osaka
-image: /assets/images/japan/hero4.png
+image: /assets/images/japan/hero5.png
 actions:
     - label: "Contribute"
       icon: github
