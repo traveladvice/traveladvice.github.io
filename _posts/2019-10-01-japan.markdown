@@ -25,7 +25,7 @@ Obviously, bring the sort of stuff you’d take on any other trip to a major cit
 
 You’ll most likely be flying into either Haneda or Narita airports.  Haneda airport is much closer to Tokyo itself and, therefore, is easier to get to.  Most airlines still fly into Narita airport from the US which is further away and I’ll provide more information about below.  As I fly Delta, they fly to Narita from Seattle so the bulk of my knowledge is based off that.  In early 2020, Delta will be moving to Haneda and out of Narita so this guide will be updated after that.  There are also major airports in Osaka and Sapporo.
 
-## Travelling between Cities in Japan
+## Travelling between Cities in Japan and the Shinkansens
 
 Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possible, however, many people choose to use the [Shinkansen][Shinkansen] or Bullet Trains.  This is a high speed rail system that goes through much of Japan.  The Shinkansen can take you from and to the major visitor destinations of Japan including [Tokyo][Tokyo], [Kyoto][Kyoto], [Osaka][Osaka], Hiroshima, and many more smaller towns.  Additionally, you can use a combination of Shinkansen and ferry to get from the main area of Japan (Honshu) to Sapporo on the island of Hokkaido.  For cheaper Shinkansen tickets, look at getting a [JR Pass](#jr-pass)
 
@@ -33,7 +33,7 @@ Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possibl
 
 The [Japan Rail Pass](https://en.wikipedia.org/wiki/Japan_Rail_Pass) (JR Pass) is a railpass for overseas visitors which enables you to use most Shinkansens as well as all JR line trains and the Narita Express.  Effectively this means that for the cost of the JR Pass, you can ride on all of those trains for free.  The JR Pass is quite expensive at about $271 USD for 7 days.  The pass is also available in 14 day and 21 day formats.  Additionally, you can purchase an Ordinary or a Green pass with the Green being equivalent to first class.  Important to note is that for the Shinkansens and Narita Express, you still need to go to a JR office to make a reservation.  It's a good idea to plan out your trains early and go make the reservations you need to.  Also important, there are some Shinkansens that you can't use on the JR pass (notablly the Nozomi and Mizuho lines).  A useful app for finding routes within the limitations of the JR Pass is [Japan Travel by Navitime](https://www.navitime.co.jp/pcstorage/html/japan_travel/english/).  A useful website is [HyperDia](http://www.hyperdia.com/).
 
-For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  
+For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  Most, if not all, cities have other lines like subways that are not covered by the pass.
 
 There are many sites that you can order a JR Pass from and you must order it prior to visiting Japan.  I have used [IACE](https://www.iace-usa.com/en/jrpass/ticketssale) many times in the past.  There is no way to purchase once in Japan.  Plan for enough time for the pass voucher to be sent to you before leaving.  Once you arrive in Japan, you should be able to redeem the voucher for your pass at a JR office in any major airport or train station.
 
@@ -116,8 +116,6 @@ Osaka
 Hiroshima
 Religion in Japan
 Ekiben
-Shinkansen
-Wear good socks
 Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=Tokyo-Tokyo-Japan
 
 [Tokyo]: /tokyo/
