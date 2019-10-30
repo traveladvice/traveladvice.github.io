@@ -26,13 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chrisrisner
-github_username:  chrisrisner
+github_username:  traveladvice
 search: true
 
 google_analytics: UA-149259437-1
 
 author:
-  name: Chris RIsner
+  name: Chris Risner
   twitter: chrisrisner
   picture: https://raw.githubusercontent.com/traveladvice/traveladvice.github.io/master/assets/images/profile1.JPG
 

@@ -8,8 +8,11 @@ tags:
   - kyoto
   - osaka
 image: /assets/images/japan/hero4.png
+actions:
+    - label: "Contribute"
+      icon: github
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-01-japan.markdown"
 ---
-
 
 This is meant to be a brief primer on travelling to Japan.  To make it easy, details for major cities ([Tokyo][tokyo], [Kyoto][kyoto], [Osaka][osaka]) have been broken out into separate pages.  This page will contain general Japan information such as what to pack, what airports are in the area, common phrases, etc.
 
