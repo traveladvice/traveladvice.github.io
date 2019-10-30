@@ -125,3 +125,7 @@ I couldn’t possibly begin to list every place you might dine and drink in Japa
 ## Things to Do and Agendas
 
 * To Be Added
+* [JRPass][JRPass]
+
+
+[JRPass]: /Japan/#jr-pass

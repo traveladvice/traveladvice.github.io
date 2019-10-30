@@ -25,7 +25,17 @@ Obviously, bring the sort of stuff you’d take on any other trip to a major cit
 
 You’ll most likely be flying into either Haneda or Narita airports.  Haneda airport is much closer to Tokyo itself and, therefore, is easier to get to.  Most airlines still fly into Narita airport from the US which is further away and I’ll provide more information about below.  As I fly Delta, they fly to Narita from Seattle so the bulk of my knowledge is based off that.  In early 2020, Delta will be moving to Haneda and out of Narita so this guide will be updated after that.  There are also major airports in Osaka and Sapporo.
 
+## Travelling between Cities in Japan
 
+Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possible, however, many people choose to use the [Shinkansen][Shinkansen] or Bullet Trains.  This is a high speed rail system that goes through much of Japan.  The Shinkansen can take you from and to the major visitor destinations of Japan including [Tokyo][Tokyo], [Kyoto][Kyoto], [Osaka][Osaka], Hiroshima, and many more smaller towns.  Additionally, you can use a combination of Shinkansen and ferry to get from the main area of Japan (Honshu) to Sapporo on the island of Hokkaido.  For cheaper Shinkansen tickets, look at getting a [JR Pass](#jr-pass)
+
+## JR Pass
+
+The [Japan Rail Pass](https://en.wikipedia.org/wiki/Japan_Rail_Pass) (JR Pass) is a railpass for overseas visitors which enables you to use most Shinkansens as well as all JR line trains and the Narita Express.  Effectively this means that for the cost of the JR Pass, you can ride on all of those trains for free.  The JR Pass is quite expensive at about $271 USD for 7 days.  The pass is also available in 14 day and 21 day formats.  Additionally, you can purchase an Ordinary or a Green pass with the Green being equivalent to first class.  Important to note is that for the Shinkansens and Narita Express, you still need to go to a JR office to make a reservation.  It's a good idea to plan out your trains early and go make the reservations you need to.  Also important, there are some Shinkansens that you can't use on the JR pass (notablly the Nozomi and Mizuho lines).  A useful app for finding routes within the limitations of the JR Pass is [Japan Travel by Navitime](https://www.navitime.co.jp/pcstorage/html/japan_travel/english/).  A useful website is [HyperDia](http://www.hyperdia.com/).
+
+For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  
+
+There are many sites that you can order a JR Pass from and you must order it prior to visiting Japan.  I have used [IACE](https://www.iace-usa.com/en/jrpass/ticketssale) many times in the past.  There is no way to purchase once in Japan.  Plan for enough time for the pass voucher to be sent to you before leaving.  Once you arrive in Japan, you should be able to redeem the voucher for your pass at a JR office in any major airport or train station.
 
 
 ## Common Japanese Phrases / Words
@@ -81,7 +91,7 @@ You’ll most likely be flying into either Haneda or Narita airports.  Haneda ai
 * Animal Cafes are another thing in Tokyo.  This is where you go and sit amongst animals of a certain type and I’ve heard of quite a variety include owl cafes, snake cafes, penguin cafes, and more.  If you're interested I’d highly suggest reading reviews and trying to get a feel for how well a place takes care of the animals.  Generally, reviews indicate things aren't very humane.
 * Vending machines are everywhere in Japan and are a quick way to get a coffee, miso soup, water, beeru, and much more.  
 * Canned cold coffee is much more prevalent in Japan.  
-* The [Shinkansen](https://en.wikipedia.org/wiki/Shinkansen) are the famous bullet trains of Japan.  Unfortunately, if you’re just visiting Tokyo, you won’t be taking one of these.  If you’re staying in the Shinagawa area, you’ll almost certainly see them pulling in / leaving from the station.  
+* The [Shinkansen][Shinkansen] are the famous bullet trains of Japan.  Unfortunately, if you’re just visiting Tokyo, you won’t be taking one of these.  If you’re staying in the Shinagawa area, you’ll almost certainly see them pulling in / leaving from the station.  
 * Outside of market areas, walking with food and drink is fairly rare.
 * A reminder: you should get some yen before you leave or shortly after arriving.  Your ATM card won’t work at all ATMs but getting a Pasmo / Suica card and filling it requires yen.
 * If you’re going shopping, bring your passport with you.  Many stores will sell you things untaxed since you’re taking it back to the states but they need to staple the receipt to a page in your passport.  There will be someone you hand that in to when you leave at the airport.  
@@ -113,3 +123,4 @@ Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=To
 [Tokyo]: /tokyo/
 [Kyoto]: /kyoto/
 [Osaka]: /osaka/
+[Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
