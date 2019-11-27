@@ -14,3 +14,9 @@ actions:
 
 
 ## Placeholder for article about Kyoto
+
+[Tokyo]: /tokyo/
+[Japan]: /japan/
+[Osaka]: /osaka/
+[Hokkaido]: /hokkaido/
+[Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen

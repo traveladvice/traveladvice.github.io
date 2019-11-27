@@ -137,3 +137,9 @@ No one could possibily list every place you might dine and drink in Japan.  The 
 
 
 [JRPass]: /Japan/#jr-pass
+
+[Japan]: /japan/
+[Kyoto]: /kyoto/
+[Osaka]: /osaka/
+[Hokkaido]: /hokkaido/
+[Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
