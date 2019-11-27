@@ -43,13 +43,25 @@ There are many sites that you can order a JR Pass from and you must order it pri
 
 Japan is a very *tall* country stretching from tropical islands of Okinawa in the south to [humid continental](https://en.wikipedia.org/wiki/Humid_continental_climate) [Hokkaido](hokkaido) in the north.  That means  that you could be encountering a very wide variety of weather depending on where you're going and what time of year you're going.  
 
+## Convience Stores (Konbini)
+
+Convience Stores, or konbini, are everywhere in Japan.  The three big chains are 7-11, Family Mart, and Lawsons.  On top of being a reliable place to use your ATM card, these places are great for a snack and a drink.  The food isn't what you're used to if you're familiar with American convience stores though and is actually very good and frequently eaten by normal Japanese people.  I'll frequently get a couple of onigiri (rice balls) or a sando along with a cold green tea for breakfast and come in under $5 USD.  The stores will always take credit cards.  If you're buying alcohol, be prepared to press a button on the screen to indicate you are old enough to buy alcohol.
+
+
+![Ekiben Shop](/assets/images/japan/ekiben.jpg){: .align-right  style="width:400px"}
+
+## Ekiben (Train Bentos)
+
+While included in the food list below, ekiben deserve their own section.
+
+<br clear="right"/>
 
 ## Common Japanese Phrases / Words
 
 * Arigato gozaimas - thank you (respectful)
 * Ohio gozaimas - good morning (respectful)
 * Gomennasai - I am sorry
-* Hi - yes
+* Hai - yes
 * eAye - No
 * Ko Knee Chee Wa - Hello / good afternoon
 * Mizu - water
@@ -65,10 +77,12 @@ Japan is a very *tall* country stretching from tropical islands of Okinawa in th
 * Beeru - Beer in Japanese
 * Beeru Nomihodai - All you can drink beer
 * [Bento](https://en.wikipedia.org/wiki/Bento) - Japanese box meal or lunch
+* [Ekiben](https://en.wikipedia.org/wiki/Ekiben) - Bento boxes specifically sold on trains and in train stations for long train rides.  More info available [here](#ekiben-train-bentos)
 * [Highball](https://en.wikipedia.org/wiki/Highball) - Typically a whiskey and soda water drink.  Very popular * throughout Japan and many places will have different variety of highball.  
 * [Izakaya](https://en.wikipedia.org/wiki/Izakaya) - A Japanese gastropub
 * [Kaiseki](https://en.wikipedia.org/wiki/Kaiseki) - Traditional multi-course Japanese meal
 * [Okonomiyaki](https://en.wikipedia.org/wiki/Okonomiyaki) - Japanese savory pancake.
+* [Onigiri](https://en.wikipedia.org/wiki/Onigiri) - Rice balls, usually wrapped in seaweed and filled with different ingredients
 * [Ramen](https://en.wikipedia.org/wiki/Ramen) - Chinese soup noodles - that’s right, Ramen is Chinese
 * [Sake](https://en.wikipedia.org/wiki/Sake) - Rice wine
 * [Shochu](https://en.wikipedia.org/wiki/Sh%C5%8Dch%C5%AB) - Distilled liquor - much stronger than sake
@@ -81,26 +95,28 @@ Japan is a very *tall* country stretching from tropical islands of Okinawa in th
 ## Random Tips
 
 * Don’t try to ask for alterations to food dishes (i.e. don’t try ordering a chirashi bowl with salad instead of rice)
-* Whenever handing somebody something (eg: credit card for purchases) it’s customary to use two hands and put it in the provided “dish” in front of them and not to hand it directly to the person.
+* Whenever handing somebody something (i.e. a credit card for purchases) it’s customary to use two hands and put it in the provided “dish” in front of them and not to hand it directly to the person.
 * Much like visiting other countries, don’t bring vegetables or meat with you.  Also, if you are bringing prescription medication (ESPECIALLY Painkillers), bring documentation of the prescription being for you (i.e. the bottle with the prescription and your name on it)
-* Mentioned elsewhere but, as a reminder, there are not a lot of garbage cans around Tokyo.  Expect to walk around with anything you have to throw away for a while or until you find a Starbucks.  Or better yet, don’t walk around with anything you might end up needing to throw away.
+* There are not a lot of garbage cans around the cities of Japan.  Expect to walk around with anything you have to throw away for a while or until you find a Starbucks.  Or better yet, don’t walk around with anything you might end up needing to throw away.
 * No tipping.  It’s considered offensive.
 * Whenever you enter a restaurant’s private room, you’ll likely want / need to remove your shoes.  Expect whoever is taking you in to indicate this and be ready to do it.  Custom is for shoes to point towards the door.
 * The toilets in Japan have a lot of technology included.  You should be able to understand what most of the buttons are for thanks to the diagrams.
-* Some restaurants will have a small black box with a button on the table.  This is used to flag your waiter(ess) and should be used instead of waving your hands.
+* Some restaurants will have a small box with a button on the table.  This is used to flag the waitstaff and should be used instead of waving your hands.  If there isn't one, don't be afraid to say excuse me to someone.
+* Many restaurants will keep an updated copy of the bill at your table.  This may be so you can take the bill up to a central register when done though it's not always this way.
+* If you want the bill, you can also hold your index fingers up in an X.
 * While smoking inside is somewhat common, smoking outside is not.  If you’re a smoker, make sure you’re in a spot it’s allowed outside.
 * It is possible you’ll walk into a restaurant and ask for a table and be met with a not-friendly look along with crossing of fingers/forearms.  They, generally, aren’t trying to be rude.  They’re afraid of not being able to give you good service because you don’t speak Japanese and they don't speak English.  Try to take it in stride and find somewhere else to eat or go with a Japanese fluent friend or colleague.  
-* If you want the bill, you can also hold your index fingers up in an X.
-* Museums and temples and parks and shrines are generally free.  Once you learn how to donate at a shrine, it’s not a bad idea and it’s usually just a coin.
-* Your ATM card will likely not work at most normal banks or ATMs.  Instead, use ATMs at the airport or at convience stores like 7-11, Family mart, etc.  If you’re staying at the Strings in Shinagawa there is a 7-11 right outside the door.
-* One thing you may hear about are [Maid Cafes](https://en.wikipedia.org/wiki/Maid_caf%C3%A9).  These are an odd (at least for non-Japanese) phenomenon called a cosplay cafe.  In them, waitresses dress as maids and serve you food and drink and take pictures and do performances.  While not my cup of tea, to each their own.  You’ll find these throughout Tokyo though most likely in Akihabara.
+* Museums and temples and parks and shrines are generally free.  The protocol for donating at a shrine is easy to learn and only costs a coin.  
+* Your ATM card will likely not work at most normal banks or ATMs.  Instead, use ATMs at the airport or at convience stores like 7-11, Family mart, Lawsons, etc.  If you’re staying at the Strings in Shinagawa there is a 7-11 right outside the door.  You'll also see 7-11 branded ATMs in some train stations you may be able to use.
+* You may hear about [Maid Cafes](https://en.wikipedia.org/wiki/Maid_caf%C3%A9).  These are an odd (at least for non-Japanese) phenomenon called a cosplay cafe.  In them, waitresses dress as maids and serve you food and drink and take pictures and do performances.  You’ll find these throughout Tokyo though most likely in Akihabara.
 * Animal Cafes are another thing in Tokyo.  This is where you go and sit amongst animals of a certain type and I’ve heard of quite a variety include owl cafes, snake cafes, penguin cafes, and more.  If you're interested I’d highly suggest reading reviews and trying to get a feel for how well a place takes care of the animals.  Generally, reviews indicate things aren't very humane.
-* Vending machines are everywhere in Japan and are a quick way to get a coffee, miso soup, water, beeru, and much more.  
+* Vending machines are everywhere in Japan and are a quick way to get a coffee, water, green tea, etc.  You'll also find ones that dispense miso soup, beer, highballs, and more exotic fare.
 * Canned cold coffee is much more prevalent in Japan.  
 * The [Shinkansen][Shinkansen] are the famous bullet trains of Japan.  Unfortunately, if you’re just visiting Tokyo, you won’t be taking one of these.  If you’re staying in the Shinagawa area, you’ll almost certainly see them pulling in / leaving from the station.  
-* Outside of market areas, walking with food and drink is fairly rare.
+* Walking with food and drink is fairly rare.
 * A reminder: you should get some yen before you leave or shortly after arriving.  Your ATM card won’t work at all ATMs but getting a Pasmo / Suica card and filling it requires yen.
-* If you’re going shopping, bring your passport with you.  Many stores will sell you things untaxed since you’re taking it back to the states but they need to staple the receipt to a page in your passport.  There will be someone you hand that in to when you leave at the airport.  
+* If you’re going shopping, bring your passport with you.  Many stores will sell you things untaxed since you’re taking it back to the states but they need to staple the receipt to a page in your passport.  There will be someone you hand that in to when you leave at the airport.  You'll see red signs that say "Japan. Tax-free Shop".  Note that some shops will require you to go to a centralized tax refund center to get your refund vs doing it in the store for you.
+* There is a minimum purchase amount to meet the tax-free rebate and it's currently at 5000 yen.
 * At Japanese sushi restaurants, miso soup is usually enjoyed at the end of the meal, unlike in American places where it’s at the beginning.
 * Formally exchanging business cards in Japan is [a thing](https://blog.gaijinpot.com/exchanging-business-cards-japan/).
 
@@ -116,9 +132,6 @@ Japan is a very *tall* country stretching from tropical islands of Okinawa in th
 
 
 ## Todo:
-Konbini
-Kyoto
-Osaka
 Hiroshima
 Religion in Japan
 Ekiben
@@ -130,3 +143,4 @@ Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=To
 [Hokkaido]: /hokkaido/
 [JapanWeather]: http://www.weatherbase.com/weather/city.php3?c=JP&name=Japan
 [Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
+
