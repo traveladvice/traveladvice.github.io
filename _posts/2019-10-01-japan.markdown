@@ -14,15 +14,14 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-01-japan.markdown"
 ---
 
-This is meant to be a brief primer on travelling to Japan.  To make it easy, details for major cities ([Tokyo][tokyo], [Kyoto][kyoto], [Osaka][osaka]) have been broken out into separate pages.  This page will contain general Japan information such as what to pack, what airports are in the area, common phrases, etc.
+This is meant to be a brief primer on travelling to Japan.  To make it easy, details for major cities ([Tokyo][tokyo], [Kyoto][kyoto], [Osaka][osaka], the island of [Hokkaido][hokkaido]) have been broken out into separate pages.  This page will contain general Japan information such as what to pack, what airports are in the area, common phrases, etc.
 
 
 ## Packing for Japan
 
-The biggest concern when packing for Japan is arguably clothing.  Many people think of Japan and think of business and that they need to wear formal business clothing to both work and out to eat.  Unless you’re going to Japan with plans to meet customers / partners at their place of work or doing a major presentation, chances are good you do not need to bring dress clothes.  Additionally, chances are good that if you’re going to a restaurant / occasion strict enough to warrant something more than business casual, you already know you'll need nicer clothes.  If you’re going to the Microsoft office, you will absolutely see many people in dress clothes.  This is especially true when you see the rush hour throngs spilling out of Shinagawa Station.  I’ve never worn anything more than business casual and even that has been uncommon on my trips.  I do highly recommend good, comfortable walking shoes.  There is a lot of walking to be done in Japan.  Speaking of which, bring good socks.  Many places will require you to remove your shoes and you don't be inappropriate.
+The biggest concern when packing for Japan is arguably clothing.  Many people think of Japan and think of business and that they need to wear formal business clothing to both work and out to eat.  Unless you’re going to Japan with plans to meet customers / partners at their place of work or doing a major presentation, chances are good you do not need to bring dress clothes.  Additionally, chances are good that if you’re going to a restaurant / occasion strict enough to warrant something more than business casual, you already know you'll need nicer clothes.  If you're traveling for work, you should check in with your colleagues who work there to gauge what attire would be appropriate. I’ve never worn anything more than business casual and even that has been uncommon on my trips.  Comfortable walking shoes are highly recommended as you'll inevitably do a lot of walking.  Additionally, bring good socks.  Many places will require you to remove your shoes and you don't want to be inappropriate.  To figure out what kind of weather to prepare for, and therefore what kind of clothes to pack, review the [Weather in Japan](#weather-in-japan) section.
 
 Obviously, bring the sort of stuff you’d take on any other trip to a major city with beautiful scenery, like your camera.  For power adapters, you’ll often find outlets that match the American 3 prong style.  More common though is the two prong style also used in the United States.  For those, they make two prong to three prong adapters if needed.  
-
 
 ## Getting to Japan
 
@@ -30,7 +29,7 @@ You’ll most likely be flying into either Haneda or Narita airports.  Haneda ai
 
 ## Travelling between Cities in Japan and the Shinkansens
 
-Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possible, however, many people choose to use the [Shinkansen][Shinkansen] or Bullet Trains.  This is a high speed rail system that goes through much of Japan.  The Shinkansen can take you from and to the major visitor destinations of Japan including [Tokyo][Tokyo], [Kyoto][Kyoto], [Osaka][Osaka], Hiroshima, and many more smaller towns.  Additionally, you can use a combination of Shinkansen and ferry to get from the main area of Japan (Honshu) to Sapporo on the island of Hokkaido.  For cheaper Shinkansen tickets, look at getting a [JR Pass](#jr-pass)
+Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possible, however, many people choose to use the [Shinkansen][Shinkansen] or Bullet Trains.  This is a high speed rail system that goes through much of Japan.  The Shinkansen can take you from and to the major visitor destinations of Japan including [Tokyo][Tokyo], [Kyoto][Kyoto], [Osaka][Osaka], Hiroshima, and many more smaller towns.  Additionally, you can use a combination of Shinkansen and ferry to get from the main area of Japan (Honshu) to Sapporo on the island of Hokkaido.  For cheaper Shinkansen tickets, look at getting a [JR Pass](#jr-pass).
 
 ## JR Pass
 
@@ -39,6 +38,10 @@ The [Japan Rail Pass](https://en.wikipedia.org/wiki/Japan_Rail_Pass) (JR Pass) i
 For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  Most, if not all, cities have other lines like subways that are not covered by the pass.
 
 There are many sites that you can order a JR Pass from and you must order it prior to visiting Japan.  I have used [IACE](https://www.iace-usa.com/en/jrpass/ticketssale) many times in the past.  There is no way to purchase once in Japan.  Plan for enough time for the pass voucher to be sent to you before leaving.  Once you arrive in Japan, you should be able to redeem the voucher for your pass at a JR office in any major airport or train station.
+
+## Weather in Japan
+
+Japan is a very *tall* country stretching from tropical islands of Okinawa in the south to [humid continental](https://en.wikipedia.org/wiki/Humid_continental_climate) [Hokkaido](hokkaido) in the north.  That means  that you could be encountering a very wide variety of weather depending on where you're going and what time of year you're going.  
 
 
 ## Common Japanese Phrases / Words
@@ -124,4 +127,6 @@ Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=To
 [Tokyo]: /tokyo/
 [Kyoto]: /kyoto/
 [Osaka]: /osaka/
+[Hokkaido]: /hokkaido/
+[JapanWeather]: http://www.weatherbase.com/weather/city.php3?c=JP&name=Japan
 [Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
