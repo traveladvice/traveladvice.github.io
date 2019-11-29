@@ -31,11 +31,15 @@ You’ll most likely be flying into either Haneda or Narita airports.  Haneda ai
 
 Flying between distant cities such as Tokyo to Sapporo or Osaka is quite possible, however, many people choose to use the [Shinkansen][Shinkansen] or Bullet Trains.  This is a high speed rail system that goes through much of Japan.  The Shinkansen can take you from and to the major visitor destinations of Japan including [Tokyo][Tokyo], [Kyoto][Kyoto], [Osaka][Osaka], Hiroshima, and many more smaller towns.  Additionally, you can use a combination of Shinkansen and ferry to get from the main area of Japan (Honshu) to Sapporo on the island of Hokkaido.  For cheaper Shinkansen tickets, look at getting a [JR Pass](#jr-pass).
 
+## IC Cards
+
+On the topic of paying for trains, you’ll want to go a few minutes early to your first station, or spend the time at the airport picking up a Pasmo or Suica card.  To buy one, once you get to the station, find the machines that specify they sell [Pasmo](https://www.pasmo.co.jp/en/) / [Suica](http://www.jreast.co.jp/e/pass/suica.html) cards.  You’ll then follow some simple instructions, don’t worry they have an English button.  Additionally, you can review [this very handy guide](https://www.pasmo.co.jp/en/buy/) explaining how to buy a card.  I believe you can [buy a Suica card online](https://www.japan-rail-pass.com/services/suica-card) though I don’t have experience with it.  Note, you’ll **NEED** yen.  It’s possible for residents to pay with their credit cards and mobile phones but you’ll need yen in order to pay for your travel card and top it up (using the same machines).  Once you have a card, you can go through the agentless gates where you’ll tap the machine on your way through and then tap when you exit the next station.  One thing to note is that it is possible to get into a place where you can’t exit because the exit is associated with a line that isn’t supported by your Pasmo / Suica.  If this happens, just look for the booth near the ticket gates that has an agent in it and ask for help.  You may need to pay in yen so make sure you have some on you.  Additionally, there are some trains and stations that don't support IC cards such as the Hakodate liner going west beyond Otaru in Hokkaido.  In general, there will be signs posted and announcements made if this happens.  As always, if you run into trouble, find the staffed booth near the ticket gates to get help.
+
 ## JR Pass
 
 The [Japan Rail Pass](https://en.wikipedia.org/wiki/Japan_Rail_Pass) (JR Pass) is a railpass for overseas visitors which enables you to use most Shinkansens as well as all JR line trains and the Narita Express.  Effectively this means that for the cost of the JR Pass, you can ride on all of those trains for free.  The JR Pass is quite expensive at about $271 USD for 7 days.  The pass is also available in 14 day and 21 day formats.  Additionally, you can purchase an Ordinary or a Green pass with the Green being equivalent to first class.  Important to note is that for the Shinkansens and Narita Express, you still need to go to a JR office to make a reservation.  It's a good idea to plan out your trains early and go make the reservations you need to.  Also important, there are some Shinkansens that you can't use on the JR pass (notablly the Nozomi and Mizuho lines).  A useful app for finding routes within the limitations of the JR Pass is [Japan Travel by Navitime](https://www.navitime.co.jp/pcstorage/html/japan_travel/english/).  A useful website is [HyperDia](http://www.hyperdia.com/).
 
-For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  Most, if not all, cities have other lines like subways that are not covered by the pass.
+For normal JR lines, you don't need a reservation but you will need to walk by a booth with an attendant to show them your valid pass since you won't be swiping in with a Pasmo / Suica card.  You'll find the usefulness of this pass within the cities to be somewhat different.  Tokyo has many JR lines so you can get around quite well with just the JR Pass.  Kyoto and Osaka don't have as many lines so it's use will be more limited.  Most, if not all, cities have other lines like subways that are not covered by the pass.  Also, when you are exiting a station that has multiple exits, it's possible the fastest exit for you to get where you're going does not have a staffed booth.  You'll need to go to a different exit that does have the booth in this situation.  
 
 There are many sites that you can order a JR Pass from and you must order it prior to visiting Japan.  I have used [IACE](https://www.iace-usa.com/en/jrpass/ticketssale) many times in the past.  There is no way to purchase once in Japan.  Plan for enough time for the pass voucher to be sent to you before leaving.  Once you arrive in Japan, you should be able to redeem the voucher for your pass at a JR office in any major airport or train station.
 
@@ -132,10 +136,8 @@ While included in the food list below, ekiben deserve their own section.  In any
 
 
 ## Todo:
-Hiroshima
 Religion in Japan
-Ekiben
-Weather with http://www.weatherbase.com/weather/weather.php3?s=17674&cityname=Tokyo-Tokyo-Japan
+
 
 [Tokyo]: /tokyo/
 [Kyoto]: /kyoto/
