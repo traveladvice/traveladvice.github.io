@@ -1,22 +1,21 @@
 ---
-title:  "Osaka"
+title:  "Hiroshima"
 date:   2019-10-28 10:29:39 -0700
 tags: 
   - asia 
   - japan
-  - osaka
+  - hiroshima
 image: /assets/images/japan/hero5.png
 actions:
     - label: "Contribute"
       icon: github
-      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-osaka.markdown"
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-11-25-hiroshima.markdown"
 ---
 
 
-## Placeholder for article about Osaka
+## Placeholder for article about Hokkaido
 
 [Tokyo]: /tokyo/
 [Kyoto]: /kyoto/
 [Japan]: /japan/
-[Hokkaido]: /hokkaido/
 [Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
