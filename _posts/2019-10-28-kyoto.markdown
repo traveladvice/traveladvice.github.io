@@ -29,6 +29,38 @@ Alternatively, and especially if you're already in Japan in [Tokyo][tokyo], [Osa
 
 Like many major cities outside of Tokyo, Kyoto does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There are two main JR lines and a number of different other private rail lines including subways and metros.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city.  However, if you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.
 
+## Where to Stay
+
+Ryokans and hotels
+
+### Attractions
+
+## Bamboo Forest
+
+## Fushimi Inari Shrine
+
+## Gion - The Geisha District
+
+## Golden Pavilion
+
+## Kaiseki
+
+## Kiyomizu-dera
+
+## Monkey Park Iwatayama
+
+## Nara
+
+## Nijo Castle
+
+## Nishiki Market
+
+## Otagi Nenbutsu-ji
+
+## Philosopher's Walk
+
+## Silver Pavilion
+
 [JRPass]: /Japan/#jr-pass
 [ICCards]: /Japan/#ic-cards
 
