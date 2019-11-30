@@ -25,6 +25,10 @@ From both ITM and KIX you'll have a series of train rides that will take an hour
 
 Alternatively, and especially if you're already in Japan in [Tokyo][tokyo], [Osaka][osaka], or other nearby cities, you might take the [Shinkansen][shinkansen] into Kyoto station.  For example, the Shinkansen can get from Tokyo Station to Kyoto Station in as little as 2 hours and 10 minutes.  However, if you are making use of a [JR Pass][jrpass], you won't be able to freely use the fastest Shinkansen between these cities, the [Nozomi](https://en.wikipedia.org/wiki/Nozomi_(train)).  Instead, you'll want to book the moderately slower [Hikari](https://en.wikipedia.org/wiki/Hikari_(train)) which will get you from Tokyo to Kyoto in just under 2 hours and 40 minutes.  
 
+## Getting around Kyoto
+
+Like many major cities outside of Tokyo, Kyoto does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There are two main JR lines and a number of different other private rail lines including subways and metros.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city.  However, if you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.
+
 [JRPass]: /Japan/#jr-pass
 [ICCards]: /Japan/#ic-cards
 
