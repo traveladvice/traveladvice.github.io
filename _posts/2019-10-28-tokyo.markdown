@@ -12,7 +12,7 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-tokyo.markdown"
 ---
 
-
+Tokyo is the largest, most populated, city in Japan and is often someone's first stop on their visit to Japan.  Here you'll find unlimited food options, bright lights, beautiful parks, and Japanese culture on display everywhere you go.  Tokyo is located in the Kanto region on the island of Honshu and has been the Japanese capital since 1869.
 
 ## Getting to Tokyo
 Depending on where you’re staying in Tokyo, you’ll need to change up what your transportation is.  Brief details on Haneda and more information on Narita and provided below.

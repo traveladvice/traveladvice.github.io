@@ -12,6 +12,7 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-kyoto.markdown"
 ---
 
+Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to Tokyo.
 
 ## Placeholder for article about Kyoto
 
