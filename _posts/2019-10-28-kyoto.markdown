@@ -5,7 +5,7 @@ tags:
   - asia 
   - japan
   - kyoto
-image: /assets/images/japan/54.png
+image: /assets/images/japan/kyoto-hero.jpg
 actions:
     - label: "Contribute"
       icon: github
