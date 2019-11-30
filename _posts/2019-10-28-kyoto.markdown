@@ -12,12 +12,24 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-kyoto.markdown"
 ---
 
-Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to Tokyo.
+Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to [Tokyo][tokyo].  While Tokyo is easy to divide up and explain via neighborhoods, Kyoto isn't quite as simple.  This guide will primarily focus on highlights of Kyoto.
 
-## Placeholder for article about Kyoto
+## Getting to Kyoto
+
+In general, there are three ways people get to Kyoto:
+* Taking a domestic flight from another airport in Japan to Osaka International Airport (ITM)
+* Taking an international flight into Kansai International Airport (KIX)
+* Flying into Narita or Haneda and taking a [Shikansen][shinkansen]
+
+From both ITM and KIX you'll have a series of train rides that will take an hour and a half to get to Kyoto Station.  Depending on when you arrive and what transportation options you choose, you may make use of many different lines to get from the airport to Kyoto.  You should review the sections on the [Shinkansen][shinkansen], [IC Cards][iccards], and the [JR Pass][jrpass].  Since both of the airports are closer to [Osaka][osaka], you may choose to visit that city first before moving on to Kyoto.
+
+Alternatively, and especially if you're already in Japan in [Tokyo][tokyo], [Osaka][osaka], or other nearby cities, you might take the [Shinkansen][shinkansen] into Kyoto station.  For example, the Shinkansen can get from Tokyo Station to Kyoto Station in as little as 2 hours and 10 minutes.  However, if you are making use of a [JR Pass][jrpass], you won't be able to freely use the fastest Shinkansen between these cities, the [Nozomi](https://en.wikipedia.org/wiki/Nozomi_(train)).  Instead, you'll want to book the moderately slower [Hikari](https://en.wikipedia.org/wiki/Hikari_(train)) which will get you from Tokyo to Kyoto in just under 2 hours and 40 minutes.  
+
+[JRPass]: /Japan/#jr-pass
+[ICCards]: /Japan/#ic-cards
 
 [Tokyo]: /tokyo/
 [Japan]: /japan/
 [Osaka]: /osaka/
 [Hokkaido]: /hokkaido/
-[Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
+[Shinkansen]: /Japan/#travelling-between-cities-in-japan-and-the-shinkansens
