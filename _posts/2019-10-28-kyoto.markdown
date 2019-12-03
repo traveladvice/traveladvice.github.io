@@ -27,39 +27,63 @@ Alternatively, and especially if you're already in Japan in [Tokyo][tokyo], [Osa
 
 ## Getting around Kyoto
 
-Like many major cities outside of Tokyo, Kyoto does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There are two main JR lines and a number of different other private rail lines including subways and metros.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city.  However, if you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.
+Like many major cities outside of Tokyo, Kyoto does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There are two main JR lines and a number of different other private rail lines including subways and metros.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city.  However, if you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.  You should also assume you'll do a lot of walking.
 
 ## Where to Stay
 
-Ryokans and hotels
+Kyoto supposedly has Japan's best selection of [Ryokan's](https://en.wikipedia.org/wiki/Ryokan_(inn)) which are traditional Japanese inns.  You'll find a large variety of differently priced ryokan in Kyoto with different amenities including breakfast and dinner, Japanese style beds and bathrooms, and more.  If you're not feeling adventurous you might stick with a more traditional hotel.  Many world wide hotel brands operate hotels within Kyoto.  Two hotels I have stayed at that I can point out are:
 
-### Attractions
+* [ANA Crown Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/kyoto/kstna/hoteldetail) - This hotel is located across the street from Nijo Castle, north of central Kyoto.  This hotel is located less than a ten minute walk from a Tozai Line subway station.  Guests may feel this hotel is a bit odd compared with more western style hotels.
+* [Solaria Nishitetsu](https://solaria-kyoto.nishitetsu-hotels.com/en-us) - Located roughly a block from the Kamo River and a short walk from the Tozai Line subway station, this is an upscale hotel with a bathhouse.  Just south of the Solaria is Pontocho Alley.  
 
-## Bamboo Forest
+## Attractions
 
-## Fushimi Inari Shrine
+### Arashiyama and the Bamboo Grove 
 
-## Gion - The Geisha District
+Located on the West end of Kyoto, Arashiyama is very touristy due to the popular bamboo grove, Tenryu-ji Temple, Togetsu-kyo Bridge, the Monkey Park, Katsura River, and many other temples.  From central Kyoto, you can take the purple San-In JR Line west to Saga-Arashiyama station.  From there you'll see signs guiding you West to the bamboo grove.  You'll likely want to arrive as early as possible as the grove gets very busy with tourists.  Southeast of the grove is Tenryu-ji Temple and further is the river and bridge.  Right by the bridge on the north side is the other touristy area with many different shops and restaurants.  South across the bridge, you can take a short walk to the Arashiyama Monkey Park.  It's quite a walk up to the top of the park but at the top you'll be greeted to a number of wild Japanese Macaque Monkeys.  While in Arashiyama, you'll also see a number of rickshaw operators who for a negotiated fee will run you around town in a comfortable rickshaw.  If you head north from Arashiyama, you'll encounter Saga-Toriimoto Preserved Street which has preserved both the street and buildings from the Meiji period.  Many of the homes are now converted into shops or restaurants.  Along the street you'll find Adashino Nenbutsu-ji Temple which includes a smaller, and much less busy, bamboo grove.  Continue North and you'll find yourself at the Otagi Nenbutsu-ji Temple.
 
-## Golden Pavilion
+![Fushimi Inari Shrine](/assets/images/japan/fushimiinari.jpg){: .align-right  style="width:400px"}
 
-## Kaiseki
+### Fushimi Inari Shrine
 
-## Kiyomizu-dera
+Located just a few minute walk from the JR line and subway, Fushimi Inari is famous and very memorable due to its thousands of vermilion torii gates.  This a Shinto shrine to Inari, the god of rice.  You'll see foxes everywhere here as they're believed to be the messengers of Inari.  If you look around during your time in Japan, you'll actually see much smaller Inari shrines with foxes all around the country.  The shrine grounds encompass Mt. Inari but the more densely areas of tori is near the bottom right past the large shrine buildings.  The path from the train into the shrine will be lined with food stalls and you'll see stores selling Inari fox merchandise.   The torii alone make this temple a must see if you stop in Kyoto.  
 
-## Monkey Park Iwatayama
+<br clear="right"/>
 
-## Nara
+### Gion - The Geisha District, Hanami-koji Dori, and Sannen-zaka
 
-## Nijo Castle
+### Golden Pavilion
 
-## Nishiki Market
+### Kaiseki
 
-## Otagi Nenbutsu-ji
+### Kiyomizu-dera
 
-## Philosopher's Walk
+### Kyoto Imperial Palace
 
-## Silver Pavilion
+### Monkey Park Iwatayama
+
+### Nara
+
+### Nijo Castle
+
+### Nishiki Market
+
+### Otagi Nenbutsu-ji
+
+### Philosopher's Walk
+
+### Pontocho Alley
+
+### Silver Pavilion : Ginkaku-ji
+
+## Restaurant Recommendations
+
+* Guilo Guilo Hitoshina
+* Hafuu
+* Kaiski places
+* Kamanza
+* Okonomiyaki Zen
+* Shoraian
 
 [JRPass]: /Japan/#jr-pass
 [ICCards]: /Japan/#ic-cards
