@@ -7,7 +7,7 @@ tags:
   - hiroshima
 image: /assets/images/japan/hero5.png
 actions:
-    - label: "Contribute"
+    - label: "Contribute to this Doc"
       icon: github
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-11-25-hiroshima.markdown"
 ---

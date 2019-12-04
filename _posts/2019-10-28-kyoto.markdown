@@ -7,7 +7,7 @@ tags:
   - kyoto
 image: /assets/images/japan/kyoto-hero.jpg
 actions:
-    - label: "Contribute"
+    - label: "Contribute to this Doc"
       icon: github
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-kyoto.markdown"
 ---
