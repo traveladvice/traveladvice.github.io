@@ -1,0 +1,21 @@
+---
+title:  "Hawaii"
+date:   2019-12-25 10:29:39 -0700
+tags: 
+  - usa 
+  - hawaii
+image: /assets/images/japan/hero5.png
+actions:
+    - label: "Contribute"
+      icon: github
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-12-25-hawaii.markdown"
+---
+
+
+## Placeholder for article about Hawaii
+
+## Kauai
+
+* Na Pali Coast - boat, zodiac, kayak, hike, helicopter, plane
+* Spouting Horn
+* Waimea Canyon
