@@ -12,7 +12,7 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-kyoto.markdown"
 ---
 
-Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to [Tokyo][tokyo].  While Tokyo is easy to divide up and explain via neighborhoods, Kyoto isn't quite as simple.  This guide will primarily focus on highlights of Kyoto.
+Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to [Tokyo][tokyo].  While Tokyo is easy to divide up and explain via neighborhoods, Kyoto isn't quite as simple.  This guide will primarily focus on highlights of Kyoto.  Being a center for shrines, temples, and geisha which many tourists aren't familiar with being around, Kyoto has [published a list of 'do nots' for visiting](https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000186/186286/TG106_WEB_engKYO.jpg).
 
 ## Getting to Kyoto
 
@@ -44,7 +44,7 @@ Located on the West end of Kyoto, Arashiyama is very touristy due to the popular
 
 ![Fushimi Inari Shrine](/assets/images/japan/fushimiinari.jpg){: .align-right  style="width:400px"}
 
-### Fushimi Inari Shrine
+### [Fushimi Inari Shrine](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha)
 
 Located just a few minute walk from the JR line and subway, Fushimi Inari is famous and very memorable due to its thousands of vermilion torii gates.  This a Shinto shrine to Inari, the god of rice.  You'll see foxes everywhere here as they're believed to be the messengers of Inari.  If you look around during your time in Japan, you'll actually see much smaller Inari shrines with foxes all around the country.  The shrine grounds encompass Mt. Inari but the more densely areas of tori is near the bottom right past the large shrine buildings.  The path from the train into the shrine will be lined with food stalls and you'll see stores selling Inari fox merchandise.   The torii alone make this temple a must see if you stop in Kyoto.  
 
@@ -52,21 +52,39 @@ Located just a few minute walk from the JR line and subway, Fushimi Inari is fam
 
 ### Gion - The Geisha District, Hanami-koji Dori, and Sannen-zaka
 
-### Golden Pavilion
+Gion is the most famous geisha district in Kyoto.  It's filled with adorable streets, shops, restaurants, and tea houses.  This is a must see when visiting Kyoto and conveniently ends right at Kiyomizu-Dera.  If you are lucky enough to see a geiko (geisha) or maiko (apprentice), be courteous.  Due to rampant rude behavior, Kyoto has started [cracking down and banning photograph taking](https://www.cnn.com/travel/article/kyoto-gion-photo-ban-intl-hnk/index.html).
 
-### Kaiseki
+### Golden Pavilion : [Kinkaku-ji](https://en.wikipedia.org/wiki/Kinkaku-ji)
 
-### Kiyomizu-dera
+A zen temple in the north of Kyoto that has the top two (of three) floors covered in gold leaf on the outside.  Actually a reconstruction after it was burnt down (most recently) in 1950, the temple looks stunning in front of a large pond.  There are a few other buildings on the grounds but the highlight is definitely the temple.  This is one of the attractions in Kyoto that is hard to get to without making use of a bus or a car.  That said, getting on a bus to Kinkaku-ji and returning is relatively easy.  Look up, or get directions from your hotel, ahead of time.  Or use the JapanTaxi app.
+
+### [Kaiseki](https://en.wikipedia.org/wiki/Kaiseki)
+
+Less a physical attraction than a type of meal.  Specifically, this is a traditional Japanese multi-course meal.  Kaiseki meals come in all types with some establishments having a specific focus (i.e. tofu, beef) and some covering a breadth of Japanese style foods.  While you will find kaiseki everyone in Japan, Kyoto is well known for being a bastion of kaiseki restaurants.  You'll want to do your research and potentially ask your hotel for recommendations.  You'll find a wide range of price and quality but should find something that matches what you're looking for.
+
+### [Kiyomizu-dera](https://en.wikipedia.org/wiki/Kiyomizu-dera)
+
+This Buddhist temple is one of the most spectacular temples in all of Japan.  While a complex of buildings, the temple is arguably most well known for it's giant wooden hall and the platform that sticks out over the hillside.  From here, you'll have fantastic views of the area including the nearby pagoda.  Walking through the main hall and then through the rest of the grounds can take some time but is definitely worth it.  After the main hall, you'll walk past additional shrines to a wooded walking path.  You'll walk past the previously mentioned pagoda before reaching a restaurant where you can rest and get food and drink if you want.  Continuing on will lead you back to the front of the temple complex.  Kiyomizu-dera is particularly beautiful during the fall season with the changing leaf colors.
 
 ### Kyoto Imperial Palace
 
+The former resident of the Imperial Family.  This hasn't been used as a residence since things were moved to Tokyo in 1869.  Today, visitors can tour the grounds and see the outside of buildings but are unable to enter any of them.  It's not far from Nijo Castle so if you have time to kill, it could be a fun addition but probably is not worth going out of your way for.  
+
 ### Monkey Park Iwatayama
 
-### Nara
+The monkey park is located in on the south end of Arashiyama right by the Togetsukyo Bridge.  This is a great opportunity to see wild Japanese Macaque Monkeys.  Keep in mind that it's a good hike uphill to get to the visiting station.  Bring some yen to buy food to feed the monkeys.
 
-### Nijo Castle
+### [Nara](https://en.wikipedia.org/wiki/Nara,_Nara)
 
-### Nishiki Market
+Nara is not actually a part of Kyoto but is a city about 45 minutes south by train.  Nara was Japan's first permanent capital but is well known because of the wild deer that wander through the temples and park at Nara Park.  
+
+### [Nijo Castle](https://en.wikipedia.org/wiki/Nij%C5%8D_Castle)
+
+Nijo Castle was originally a shogun palace and was donated to the city of Kyoto in 1939.  This castle is a great example of what Japanese feudal palace architecture would be.  The castle consists of an outer wall, buildings within that, an inner wall, fewer buildings an ruins within that, and gardens throughout.  The primary building you'll walk to walk through (and it's an extra charge on top of castle access) is Ninomaru Palace.  This large building is where the shogunate would have conducted it's business.  Inside you'll walk past man large open chambers, all with tatami mats on the floor and painted doors and walls and elaborate ceilings.  Make sure you listen for the chirping noise as you walk on top of the [Nightingale Floors](https://en.wikipedia.org/wiki/Nightingale_floor).  
+
+### [Nishiki Market](https://en.wikipedia.org/wiki/Nishiki_Market)
+
+Nishiki is a food market located in central Kyoto.  Walking through the stalls you'll see fresh seafood, produce, kitchen tools, and more.  If you haven't walked around a market in Japan yet, it's a great place to stop by.
 
 ### Otagi Nenbutsu-ji
 
@@ -75,6 +93,12 @@ Located just a few minute walk from the JR line and subway, Fushimi Inari is fam
 ### Pontocho Alley
 
 ### Silver Pavilion : Ginkaku-ji
+
+### Yamazaki Distillery
+
+## Kyoto Dialect
+
+* Okini - This term means thank you in the Kansai area including Kyoto.
 
 ## Restaurant Recommendations
 
