@@ -5,18 +5,125 @@ tags:
   - asia 
   - japan
   - kyoto
-image: /assets/images/japan/54.png
+image: /assets/images/japan/kyoto-hero.jpg
 actions:
-    - label: "Contribute"
+    - label: "Contribute to this Doc"
       icon: github
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-kyoto.markdown"
 ---
 
+Kyoto is the cultural center of Japan, the home of kaiseki and the tea ceremony, and also home to some of the most popular temples and shrines in the country.  Kyoto is located in the Kansai region on the island of Honshu and was the Japanese capital for over a thousand years prior to it moving to [Tokyo][tokyo].  While Tokyo is easy to divide up and explain via neighborhoods, Kyoto isn't quite as simple.  This guide will primarily focus on highlights of Kyoto.  Being a center for shrines, temples, and geisha which many tourists aren't familiar with being around, Kyoto has [published a list of 'do nots' for visiting](https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000186/186286/TG106_WEB_engKYO.jpg).
 
-## Placeholder for article about Kyoto
+## Getting to Kyoto
+
+In general, there are three ways people get to Kyoto:
+* Taking a domestic flight from another airport in Japan to Osaka International Airport (ITM)
+* Taking an international flight into Kansai International Airport (KIX)
+* Flying into Narita or Haneda and taking a [Shikansen][shinkansen]
+
+From both ITM and KIX you'll have a series of train rides that will take an hour and a half to get to Kyoto Station.  Depending on when you arrive and what transportation options you choose, you may make use of many different lines to get from the airport to Kyoto.  You should review the sections on the [Shinkansen][shinkansen], [IC Cards][iccards], and the [JR Pass][jrpass].  Since both of the airports are closer to [Osaka][osaka], you may choose to visit that city first before moving on to Kyoto.
+
+Alternatively, and especially if you're already in Japan in [Tokyo][tokyo], [Osaka][osaka], or other nearby cities, you might take the [Shinkansen][shinkansen] into Kyoto station.  For example, the Shinkansen can get from Tokyo Station to Kyoto Station in as little as 2 hours and 10 minutes.  However, if you are making use of a [JR Pass][jrpass], you won't be able to freely use the fastest Shinkansen between these cities, the [Nozomi](https://en.wikipedia.org/wiki/Nozomi_(train)).  Instead, you'll want to book the moderately slower [Hikari](https://en.wikipedia.org/wiki/Hikari_(train)) which will get you from Tokyo to Kyoto in just under 2 hours and 40 minutes.  
+
+## Getting around Kyoto
+
+Like many major cities outside of Tokyo, Kyoto does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There are two main JR lines and a number of different other private rail lines including subways and metros.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city.  However, if you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.  You should also assume you'll do a lot of walking.
+
+## Where to Stay
+
+Kyoto supposedly has Japan's best selection of [Ryokan's](https://en.wikipedia.org/wiki/Ryokan_(inn)) which are traditional Japanese inns.  You'll find a large variety of differently priced ryokan in Kyoto with different amenities including breakfast and dinner, Japanese style beds and bathrooms, and more.  If you're not feeling adventurous you might stick with a more traditional hotel.  Many world wide hotel brands operate hotels within Kyoto.  Two hotels I have stayed at that I can point out are:
+
+* [ANA Crown Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/kyoto/kstna/hoteldetail) - This hotel is located across the street from Nijo Castle, north of central Kyoto.  This hotel is located less than a ten minute walk from a Tozai Line subway station.  Guests may feel this hotel is a bit odd compared with more western style hotels.
+* [Solaria Nishitetsu](https://solaria-kyoto.nishitetsu-hotels.com/en-us) - Located roughly a block from the Kamo River and a short walk from the Tozai Line subway station, this is an upscale hotel with a bathhouse.  Just south of the Solaria is Pontocho Alley.  
+
+## Attractions
+
+### Arashiyama and the Bamboo Grove 
+
+Located on the West end of Kyoto, Arashiyama is very touristy due to the popular bamboo grove, Tenryu-ji Temple, Togetsu-kyo Bridge, the Monkey Park, Katsura River, and many other temples.  From central Kyoto, you can take the purple San-In JR Line west to Saga-Arashiyama station.  From there you'll see signs guiding you West to the bamboo grove.  You'll likely want to arrive as early as possible as the grove gets very busy with tourists.  Southeast of the grove is Tenryu-ji Temple and further is the river and bridge.  Right by the bridge on the north side is the other touristy area with many different shops and restaurants.  South across the bridge, you can take a short walk to the Arashiyama Monkey Park.  It's quite a walk up to the top of the park but at the top you'll be greeted to a number of wild Japanese Macaque Monkeys.  While in Arashiyama, you'll also see a number of rickshaw operators who for a negotiated fee will run you around town in a comfortable rickshaw.  If you head north from Arashiyama, you'll encounter Saga-Toriimoto Preserved Street which has preserved both the street and buildings from the Meiji period.  Many of the homes are now converted into shops or restaurants.  Along the street you'll find Adashino Nenbutsu-ji Temple which includes a smaller, and much less busy, bamboo grove.  Continue North and you'll find yourself at the Otagi Nenbutsu-ji Temple.
+
+![Fushimi Inari Shrine](/assets/images/japan/fushimiinari.jpg){: .align-right  style="width:400px"}
+
+### [Fushimi Inari Shrine](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha)
+
+Located just a few minute walk from the JR line and subway, Fushimi Inari is famous and very memorable due to its thousands of vermilion torii gates.  This a Shinto shrine to Inari, the god of rice.  You'll see foxes everywhere here as they're believed to be the messengers of Inari.  If you look around during your time in Japan, you'll actually see much smaller Inari shrines with foxes all around the country.  The shrine grounds encompass Mt. Inari but the more densely areas of tori is near the bottom right past the large shrine buildings.  The path from the train into the shrine will be lined with food stalls and you'll see stores selling Inari fox merchandise.   The torii alone make this temple a must see if you stop in Kyoto.  
+
+<br clear="right"/>
+
+### Gion - The Geisha District, Hanami-koji Dori, and Sannen-zaka
+
+Gion is the most famous geisha district in Kyoto.  It's filled with adorable streets, shops, restaurants, and tea houses.  This is a must see when visiting Kyoto and conveniently ends right at Kiyomizu-Dera.  If you are lucky enough to see a geiko (geisha) or maiko (apprentice), be courteous.  Due to rampant rude behavior, Kyoto has started [cracking down and banning photograph taking](https://www.cnn.com/travel/article/kyoto-gion-photo-ban-intl-hnk/index.html).
+
+### [Golden Pavilion : Kinkaku-ji](https://en.wikipedia.org/wiki/Kinkaku-ji)
+
+A zen temple in the north of Kyoto that has the top two (of three) floors covered in gold leaf on the outside.  Actually a reconstruction after it was burnt down (most recently) in 1950, the temple looks stunning in front of a large pond.  There are a few other buildings on the grounds but the highlight is definitely the temple.  This is one of the attractions in Kyoto that is hard to get to without making use of a bus or a car.  That said, getting on a bus to Kinkaku-ji and returning is relatively easy.  Look up, or get directions from your hotel, ahead of time.  Or use the JapanTaxi app.
+
+### [Kaiseki](https://en.wikipedia.org/wiki/Kaiseki)
+
+Less a physical attraction than a type of meal.  Specifically, this is a traditional Japanese multi-course meal.  Kaiseki meals come in all types with some establishments having a specific focus (i.e. tofu, beef) and some covering a breadth of Japanese style foods.  While you will find kaiseki everyone in Japan, Kyoto is well known for being a bastion of kaiseki restaurants.  You'll want to do your research and potentially ask your hotel for recommendations.  You'll find a wide range of price and quality but should find something that matches what you're looking for.
+
+### [Kiyomizu-dera](https://en.wikipedia.org/wiki/Kiyomizu-dera)
+
+This Buddhist temple is one of the most spectacular temples in all of Japan.  While a complex of buildings, the temple is arguably most well known for it's giant wooden hall and the platform that sticks out over the hillside.  From here, you'll have fantastic views of the area including the nearby pagoda.  Walking through the main hall and then through the rest of the grounds can take some time but is definitely worth it.  After the main hall, you'll walk past additional shrines to a wooded walking path.  You'll walk past the previously mentioned pagoda before reaching a restaurant where you can rest and get food and drink if you want.  Continuing on will lead you back to the front of the temple complex.  Kiyomizu-dera is particularly beautiful during the fall season with the changing leaf colors.
+
+### Kyoto Imperial Palace
+
+The former resident of the Imperial Family.  This hasn't been used as a residence since things were moved to Tokyo in 1869.  Today, visitors can tour the grounds and see the outside of buildings but are unable to enter any of them.  It's not far from Nijo Castle so if you have time to kill, it could be a fun addition but probably is not worth going out of your way for.  
+
+### Monkey Park Iwatayama
+
+The monkey park is located in on the south end of Arashiyama right by the Togetsukyo Bridge.  This is a great opportunity to see wild Japanese Macaque Monkeys.  Keep in mind that it's a good hike uphill to get to the visiting station.  Bring some yen to buy food to feed the monkeys.
+
+### [Nara](https://en.wikipedia.org/wiki/Nara,_Nara)
+
+Nara is not actually a part of Kyoto but is a city about 45 minutes south by train.  Nara was Japan's first permanent capital but is well known because of the wild deer that wander through the temples and park at Nara Park.  
+
+### [Nijo Castle](https://en.wikipedia.org/wiki/Nij%C5%8D_Castle)
+
+Nijo Castle was originally a shogun palace and was donated to the city of Kyoto in 1939.  This castle is a great example of what Japanese feudal palace architecture would be.  The castle consists of an outer wall, buildings within that, an inner wall, fewer buildings an ruins within that, and gardens throughout.  The primary building you'll walk to walk through (and it's an extra charge on top of castle access) is Ninomaru Palace.  This large building is where the shogunate would have conducted it's business.  Inside you'll walk past man large open chambers, all with tatami mats on the floor and painted doors and walls and elaborate ceilings.  Make sure you listen for the chirping noise as you walk on top of the [Nightingale Floors](https://en.wikipedia.org/wiki/Nightingale_floor).  
+
+### [Nishiki Market](https://en.wikipedia.org/wiki/Nishiki_Market)
+
+Nishiki is a food market located in central Kyoto.  Walking through the stalls you'll see fresh seafood, produce, kitchen tools, and more.  If you haven't walked around a market in Japan yet, it's a great place to stop by.
+
+### [Otagi Nenbutsu-ji](https://en.wikipedia.org/wiki/Otagi_Nenbutsu-ji)
+
+North of Arashiyama and not far from the Saga-Toriimoto Preserved Street is the Otagi Nenbutsu-ji.  While out of the way, this temple is well known for it's 1200 [rakan](https://en.wikipedia.org/wiki/Arhat) (one who has achieved nirvana).  These small stone statues are all different.  Some are smiling, some are laughing, some are holding every day objects.  Many of these were created in more recent times as the original temple was destroyed.  
+
+### [Philosopher's Walk](https://en.wikipedia.org/wiki/Philosopher%27s_Walk)
+
+A cherry tree lined pedestrian walkway which goes from Ginkaku-ji (the Silver Pavilion) along a canal to another temple (Nanzen-ji).  Due to the trees, this walkway is very popular during the Cherry Blossom season.  
+
+### [Pontocho Alley](https://en.wikipedia.org/wiki/Ponto-ch%C5%8D)
+
+This narrow alley is located right by the western bank of the Kamo River and is full of restaurants and bars.  Worth it just to stroll down at night, you'll find this alley is very atmospheric.  
+
+### [Silver Pavilion : Ginkaku-ji](https://en.wikipedia.org/wiki/Ginkaku-ji)
+
+This zen temple is one of Kyoto's most famous landmarks.  Also known as Jisho-ji, this temple was modeled after the Golden Pavilion (Kinkaku-ji) but it's noticeably less extravagant and is not silver at all.  Several other buildings are on the grounds and the walk through will give you good views of the Silver Pavilion and the city of Kyoto.  
+
+### [Yamazaki Distillery](https://www.suntory.com/factory/yamazaki/)
+
+One of Japan's most famous whiskey distilleries can be visited with a 15 minute train ride from Kyoto station and then a 10 minute walk from Yamazaki Station.  Tours are only conducted in Japanese but they do have audio guides available in other languages.  
+
+## Kyoto Dialect
+
+* Okini - This term means thank you in the Kansai area including Kyoto.
+
+## Restaurant Recommendations
+
+* [Guilo Guilo Hitoshina](https://www.tripadvisor.ca/Restaurant_Review-g298564-d1135201-Reviews-Guilo_Guilo_Hitoshina-Kyoto_Kyoto_Prefecture_Kinki.html) - This is a kaiseki restaurant but more of a new age take on it.  The inside feels more pub-like than traditional kaiseki.  Well regarded but with some possible hiccups.  Recent reviews tell a mixed story between people that love it and people that really don't.  I'd read some of the more recent reviews to know what to expect.  Also know as Giro Giro Hitoshina.  
+* [Hafuu](http://hafuu.com/eng_store_honten.html) - Hafuu is focused on beef and each multi-course meal will feature different preparations of beef in different dishes.  As of time of writing, [#57 restaurant in Kyoto on TripAdvisor](https://www.tripadvisor.ca/Restaurant_Review-g298564-d1664829-Reviews-Hafuu_Honten-Kyoto_Kyoto_Prefecture_Kinki.html). 
+* Kaiski places - No specific place to point out here but Kyoto is known for kaiseki.  It's worth the effort to find a place that matches your expectations while you're in the city.  Of course, this is typically more fancy food and dining.  You can likely eat just as good at a random izakaya.
+* [Kamanza](http://www.kamanza.net/?utm_source=tripadvisor&utm_medium=referral) - A small izakaya located in north / central Kyoto.  You'll find a wide variety of Japanese dishes here including quite a few on their daily special board.  The owners don't speak very much English but they'll try exceedingly hard to communicate with you and even pull out Google Translate to try to have a conversation.  
+* [Okonomiyaki Zen](https://www.tripadvisor.ca/Restaurant_Review-g14123896-d9652104-Reviews-Okonomiyaki_Zen-Sakyo_Kyoto_Kyoto_Prefecture_Kinki.html) - Located a short distance from The Philosopher's Walk, this small restaurant focuses on [okonomiyaki](https://en.wikipedia.org/wiki/Okonomiyaki), the savory Japanese pancake.  Each table has a flat top grill in the table where they will cook and prepare your pancake for you.
+* [Shoraian](https://www.shoraian.com/menu/) - Located in the woods West of Arashiyama and just north of the Katsura River, this restaurant specializes in tofu though their multi-course meals will feature a wide variety of dishes.  You'll need to remove your shoes at the door and most of the tables will require some interesting leg bending, but the food is quite delicious and if you're lucky you'll have a view out to the river while you eat.
+
+[JRPass]: /Japan/#jr-pass
+[ICCards]: /Japan/#ic-cards
 
 [Tokyo]: /tokyo/
 [Japan]: /japan/
 [Osaka]: /osaka/
 [Hokkaido]: /hokkaido/
-[Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
+[Shinkansen]: /Japan/#travelling-between-cities-in-japan-and-the-shinkansens

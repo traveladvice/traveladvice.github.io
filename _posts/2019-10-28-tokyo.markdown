@@ -7,12 +7,12 @@ tags:
   - tokyo
 image: /assets/images/japan/hero5.png
 actions:
-    - label: "Contribute"
+    - label: "Contribute to this Doc"
       icon: github
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-10-28-tokyo.markdown"
 ---
 
-
+Tokyo is the largest, most populated, city in Japan and is often someone's first stop on their visit to Japan.  Here you'll find unlimited food options, bright lights, beautiful parks, and Japanese culture on display everywhere you go.  Tokyo is located in the Kanto region on the island of Honshu and has been the Japanese capital since 1869.
 
 ## Getting to Tokyo
 Depending on where you’re staying in Tokyo, you’ll need to change up what your transportation is.  Brief details on Haneda and more information on Narita and provided below.
@@ -25,7 +25,7 @@ There are many different options when going from Narita to Tokyo including the N
 
 After arriving in Narita, you’ll go through customs (you’ll need to have filled out a form which you should get on the plane).  Depending on the terminal you fly into, after customs, you’ll go downstairs to baggage claim and then turn back around to exit into the transportation area.  Immediately after exiting baggage to Transportation is where you can exchange your USD for Yen if that’s your plan. Once out in the main area, look for signs for trains.  They'll likely be to the right from where you exited the International arrivals area.  You'll go down a level or two and enter an area with a Starbucks in front of you.  
 
-On the right side you'll see offices for the [JR East Ticket Travel Center](http://www.jreast.co.jp/e/stations/e1130.html) as well as an office for the Skyaccess lines.  To the left you'll see automated machines and a booth for the Narita Express.  If you are exchanging a [JR Pass][JRPass] at this point in the trip, you'll want to go to the JR East Ticket Office.  They’ll speak English, accept credit cards, and will be able to redeem your JR Pass voucher, get you reservations on reserved trains, and help you get where you're going.  You can get a seat on the Narita Express while you're in the office.  Alternatively, you can go to the NEX area on the left if you are just looking to get a ticket.  You'll want to pay attention to signs as they will direct you where to go to use a foriegn credit card.  For the Narita Express, you can buy a round trip ticket but for best flexibility, you can wait until you know exactly when you'll want to return.  The gates down to the Narita Express, and other trains, are to the left of where you came down the escalator.  Make sure you hold on to your ticket after you board.
+On the right side you'll see offices for the [JR East Ticket Travel Center](http://www.jreast.co.jp/e/stations/e1130.html) as well as an office for the Skyaccess lines.  To the left you'll see automated machines and a booth for the Narita Express.  If you are exchanging a [JR Pass][JRPass] at this point in the trip, you'll want to go to the JR East Ticket Office.  They’ll speak English, accept credit cards, and will be able to redeem your JR Pass voucher, get you reservations on reserved trains, and help you get where you're going.  You can get a seat on the Narita Express while you're in the office.  Alternatively, you can go to the NEX area on the left if you are just looking to get a ticket.  You'll want to pay attention to signs as they will direct you where to go to use a foreign credit card.  For the Narita Express, you can buy a round trip ticket but for best flexibility, you can wait until you know exactly when you'll want to return.  The gates down to the Narita Express, and other trains, are to the left of where you came down the escalator.  Make sure you hold on to your ticket after you board.
 
 After buying your ticket, head through the gate and go down the nearby escalator and follow signs for the correct platform and car.  There will be signs for car numbers so make sure you line up in the right place for the car you’re on.  The Narita Express is assigned car and seats as are other lines leaving from Narita.  Note that if you decide to get a coffee at the Starbucks, you’re very likely to be holding on to that cup for a good while because there aren't a lot [garbage cans](http://jpninfo.com/54373) in the country.  In, general people do not walk and drink or eat things.  You won’t get dirty looks but again, you won’t find a garbage can and you should not litter.  Also worth noting not to get on the Narita Express train until it’s been cleaned. If you get on too early, even after current passengers have exited, you’ll be asked to get off the train while they clean it (and turn the seats around to face the direction in which the train will depart).
 From Narita, you’ll have very few stops on the way to either Tokyo Station or Shinagawa.  There may be another terminal stop but after you first leave, but the next stop from the airport is Tokyo Station, immediately followed by Shinagawa.  It takes a bit over an hour for Tokyo Station and about an hour and a half for Shinagawa.  
@@ -51,7 +51,7 @@ When you’re ready to leave Tokyo and return to Narita, it should be quite easy
 
 By far the easiest way to get around the city is the train system.  They are efficient, on-time, clean, quiet, and organized.  There are a number of lines that run around the Tokyo area and are operated by different companies.  For the most part, you can pretty easily get around on the JR Rail company lines though sometimes you’ll end up needing to hop on a different line like the Tokyo Metro.  The first time you venture into a big station, like Shinagawa, you might feel a bit overwhelmed, but it’ll become very easy.  All of the signs are in English and all of the lines are color based with the direction of the line (i.e. the green Yamanote line towards Shibuya vs towards Tokyo (station)).  At times, the more confusing thing can be either finding your way out of the train station (Shibuya) or finding your way from one train to another when you are connecting lines.  Just relax and you’ll figure it out.  From a tourist perspective, [this map](https://www.jreast.co.jp/E/downloads/pdf/tokyo_map_e.pdf) is pretty useful as it shows the JR Rail Lines and the tourist attractions near them.  For the most part, don’t worry too much about running to catch a train as you won’t wait very long for the next train.  Some of these run every 2.5 minutes during rush hour.  On the rush hour note, unless you like people, you might avoid taking trains during the busiest parts of the day.  
 
-If you haven't done so already, you'll want to get a [IC Card such as Pasmo or Suica][ICCards] right away.  You can get by buying tickets for each train ride but the inconvience will quickly outweigh any reasons any benefit.   
+If you haven't done so already, you'll want to get a [IC Card such as Pasmo or Suica][ICCards] right away.  You can get by buying tickets for each train ride but the inconvenience will quickly outweigh any reasons any benefit.   
 
 If you have purchased a [JR Pass][JRPass] for your trip, you can use the pass to ride on the JR Lines for free.  You'll need to walk by a booth with an attendant to show them your JR Pass since you can't scan through.  Also, the JR Pass doesn't cover subways.  It's best to get an [IC Card][ICCards] just to be safe.
 
@@ -119,12 +119,17 @@ Coming soon!
 
 Ueno park is a large park in central Tokyo which has several museums, shrines, food stalls, and more.  If you were visiting during Cherry Blossom season, this is likely where you would go.  Off season, there is still much to see and do.  The Tokyo National Museum has an excellent collection of Japanese art and history including samurai swords and armor.  
 
+## Other Attractions
+
+* [teamLab Planets](https://planets.teamlab.art/tokyo/) - An interactive art exhibit.  This *exhibit* combines touch, texture, light, sound, shapes, water, and more to give you a unique experience.  You can get through this whole exhibit in under an hour pretty easily if you don't stop to admire things for too long.  
+
 ## Restaurants and Bars
 
-No one could possibily list every place you might dine and drink in Japan.  The country has more Michelin Star restaurants than anywhere in the world and probably more restaurants per capita than anywhere else in the world, there are no shortage of places to eat of every variety.  Below is a small collection of places you might look for.
+No one could possibly list every place you might dine and drink in Japan.  The country has more Michelin Star restaurants than anywhere in the world and probably more restaurants per capita than anywhere else in the world, there are no shortage of places to eat of every variety.  Below is a small collection of places you might look for.
 
 
 * Ant’n’Bee - A basement local craft beer place.  Can be a bit smokey but very cool.
+* [Buri Bar](https://www.tripadvisor.ca/Restaurant_Review-g1066456-d1013499-Reviews-Buri-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html) - This is a standing bar that specializes in serving sake one-cups.  They have a dozens of varieties and also offer other alcoholic beverages and some snacks.  A short walk from the Ebisu JR station.
 * BrewDog Roppongi - One of BrewDog’s Tokyo outposts.  A good mix of beer they make around the world and in Japan.
 * Gonpachi - Yakitori restaurant that inspired the end scene in Kill Bill.  Note that there are multiple Gonpachi's and the more famous one is in Rappongi.
 * Hitachino Brew Lab - Great local craft beer.  There is one in Akihabara and a temporary popup in the Shinagawa station.
@@ -135,6 +140,15 @@ No one could possibily list every place you might dine and drink in Japan.  The 
 * Tofu-ya Ukai - A tofu focused kaiseki restaurant.  Dishes can be adventurous. 
 * [Tokyo Whiskey Library](http://www.tokyo-whisky-library.com/en/index.html) - A great whiskey bar located in Shibuya.  A wide selection of Japanese and imported whiskey, good cocktails, and good bites.
 * Zoetrope - A very small but amazing Japanese whiskey bar.
+
+## Stuff I haven't Seen but have Heard is Good
+
+* Todoroki Valley
+* Ghibli Museum
+* Golden Gai
+* Shinjuku Scramble
+* teamLab Borderless
+
 
 [JRPass]: /Japan/#jr-pass
 [ICCards]: /Japan/#ic-cards
