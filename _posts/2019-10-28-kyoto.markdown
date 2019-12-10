@@ -54,7 +54,7 @@ Located just a few minute walk from the JR line and subway, Fushimi Inari is fam
 
 Gion is the most famous geisha district in Kyoto.  It's filled with adorable streets, shops, restaurants, and tea houses.  This is a must see when visiting Kyoto and conveniently ends right at Kiyomizu-Dera.  If you are lucky enough to see a geiko (geisha) or maiko (apprentice), be courteous.  Due to rampant rude behavior, Kyoto has started [cracking down and banning photograph taking](https://www.cnn.com/travel/article/kyoto-gion-photo-ban-intl-hnk/index.html).
 
-### Golden Pavilion : [Kinkaku-ji](https://en.wikipedia.org/wiki/Kinkaku-ji)
+### [Golden Pavilion : Kinkaku-ji](https://en.wikipedia.org/wiki/Kinkaku-ji)
 
 A zen temple in the north of Kyoto that has the top two (of three) floors covered in gold leaf on the outside.  Actually a reconstruction after it was burnt down (most recently) in 1950, the temple looks stunning in front of a large pond.  There are a few other buildings on the grounds but the highlight is definitely the temple.  This is one of the attractions in Kyoto that is hard to get to without making use of a bus or a car.  That said, getting on a bus to Kinkaku-ji and returning is relatively easy.  Look up, or get directions from your hotel, ahead of time.  Or use the JapanTaxi app.
 
@@ -86,15 +86,25 @@ Nijo Castle was originally a shogun palace and was donated to the city of Kyoto 
 
 Nishiki is a food market located in central Kyoto.  Walking through the stalls you'll see fresh seafood, produce, kitchen tools, and more.  If you haven't walked around a market in Japan yet, it's a great place to stop by.
 
-### Otagi Nenbutsu-ji
+### [Otagi Nenbutsu-ji](https://en.wikipedia.org/wiki/Otagi_Nenbutsu-ji)
 
-### Philosopher's Walk
+North of Arashiyama and not far from the Saga-Toriimoto Preserved Street is the Otagi Nenbutsu-ji.  While out of the way, this temple is well known for it's 1200 [rakan](https://en.wikipedia.org/wiki/Arhat) (one who has achieved nirvana).  These small stone statues are all different.  Some are smiling, some are laughing, some are holding every day objects.  Many of these were created in more recent times as the original temple was destroyed.  
 
-### Pontocho Alley
+### [Philosopher's Walk](https://en.wikipedia.org/wiki/Philosopher%27s_Walk)
 
-### Silver Pavilion : Ginkaku-ji
+A cherry tree lined pedestrian walkway which goes from Ginkaku-ji (the Silver Pavilion) along a canal to another temple (Nanzen-ji).  Due to the trees, this walkway is very popular during the Cherry Blossom season.  
 
-### Yamazaki Distillery
+### [Pontocho Alley](https://en.wikipedia.org/wiki/Ponto-ch%C5%8D)
+
+This narrow alley is located right by the western bank of the Kamo River and is full of restaurants and bars.  Worth it just to stroll down at night, you'll find this alley is very atmospheric.  
+
+### [Silver Pavilion : Ginkaku-ji](https://en.wikipedia.org/wiki/Ginkaku-ji)
+
+This zen temple is one of Kyoto's most famous landmarks.  Also known as Jisho-ji, this temple was modeled after the Golden Pavilion (Kinkaku-ji) but it's noticeably less extravagant and is not silver at all.  Several other buildings are on the grounds and the walk through will give you good views of the Silver Pavilion and the city of Kyoto.  
+
+### [Yamazaki Distillery](https://www.suntory.com/factory/yamazaki/)
+
+One of Japan's most famous whiskey distilleries can be visited with a 15 minute train ride from Kyoto station and then a 10 minute walk from Yamazaki Station.  Tours are only conducted in Japanese but they do have audio guides available in other languages.  
 
 ## Kyoto Dialect
 
@@ -102,12 +112,12 @@ Nishiki is a food market located in central Kyoto.  Walking through the stalls y
 
 ## Restaurant Recommendations
 
-* Guilo Guilo Hitoshina
-* Hafuu
-* Kaiski places
-* Kamanza
-* Okonomiyaki Zen
-* Shoraian
+* [Guilo Guilo Hitoshina](https://www.tripadvisor.ca/Restaurant_Review-g298564-d1135201-Reviews-Guilo_Guilo_Hitoshina-Kyoto_Kyoto_Prefecture_Kinki.html) - This is a kaiseki restaurant but more of a new age take on it.  The inside feels more pub-like than traditional kaiseki.  Well regarded but with some possible hiccups.  Recent reviews tell a mixed story between people that love it and people that really don't.  I'd read some of the more recent reviews to know what to expect.  Also know as Giro Giro Hitoshina.  
+* [Hafuu](http://hafuu.com/eng_store_honten.html) - Hafuu is focused on beef and each multi-course meal will feature different preparations of beef in different dishes.  As of time of writing, [#57 restaurant in Kyoto on TripAdvisor](https://www.tripadvisor.ca/Restaurant_Review-g298564-d1664829-Reviews-Hafuu_Honten-Kyoto_Kyoto_Prefecture_Kinki.html). 
+* Kaiski places - No specific place to point out here but Kyoto is known for kaiseki.  It's worth the effort to find a place that matches your expectations while you're in the city.  Of course, this is typically more fancy food and dining.  You can likely eat just as good at a random izakaya.
+* [Kamanza](http://www.kamanza.net/?utm_source=tripadvisor&utm_medium=referral) - A small izakaya located in north / central Kyoto.  You'll find a wide variety of Japanese dishes here including quite a few on their daily special board.  The owners don't speak very much English but they'll try exceedingly hard to communicate with you and even pull out Google Translate to try to have a conversation.  
+* [Okonomiyaki Zen](https://www.tripadvisor.ca/Restaurant_Review-g14123896-d9652104-Reviews-Okonomiyaki_Zen-Sakyo_Kyoto_Kyoto_Prefecture_Kinki.html) - Located a short distance from The Philosopher's Walk, this small restaurant focuses on [okonomiyaki](https://en.wikipedia.org/wiki/Okonomiyaki), the savory Japanese pancake.  Each table has a flat top grill in the table where they will cook and prepare your pancake for you.
+* [Shoraian](https://www.shoraian.com/menu/) - Located in the woods West of Arashiyama and just north of the Katsura River, this restaurant specializes in tofu though their multi-course meals will feature a wide variety of dishes.  You'll need to remove your shoes at the door and most of the tables will require some interesting leg bending, but the food is quite delicious and if you're lucky you'll have a view out to the river while you eat.
 
 [JRPass]: /Japan/#jr-pass
 [ICCards]: /Japan/#ic-cards
