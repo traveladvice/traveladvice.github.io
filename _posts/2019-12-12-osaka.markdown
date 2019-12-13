@@ -1,0 +1,52 @@
+---
+title:  "Osaka"
+date:   2019-12-12 10:29:39 -0700
+tags: 
+  - asia 
+  - japan
+  - osaka
+image: /assets/images/japan/osaka-hero.jpg
+actions:
+    - label: "Contribute to this Doc"
+      icon: github
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-12-12-osaka.markdown"
+---
+
+Osaka is the second largest city in Japan, after [Tokyo][tokyo].  In stark contrast to nearby [Kyoto][kyoto], Osaka feels much more like a mega city with skyscrapers everywhere.  Osaka is known for it's food scene and regional dishes include okonomiyaki, takoyaki, udon, and fugu.  
+
+## Getting to Osaka
+
+In general, there are three ways people get to Osaka:
+* Taking a domestic flight from another airport in Japan to Osaka International Airport (ITM)
+* Taking an international flight into Kansai International Airport (KIX)
+* Flying into Narita or Haneda and taking a [Shikansen][shinkansen]
+
+Flying into either ITM or KIX will mean a train ride somewhere into central Osaka.  KIX is located on an island and further south of the city center than ITM, but it's the more likely airport you'd fly into unless you're flying domestically from elsewhere in Japan.  You should review the sections on [IC Cards][iccards] and the [JR Pass][jrpass] depending on what train lines you may be taking.  
+
+If you're already in Japan in [Tokyo][tokyo], [Kyoto][kyoto], or other nearby cities, you might take the [Shinkansen][shinkansen] into Shin-Osaka station.  From Tokyo, you can get to into Osaka in about 2.5 hours on the fastest bulllet train.  However, if you are making use of a [JR Pass][jrpass], you won't be able to freely use the fastest Shinkansen between these cities, the [Nozomi](https://en.wikipedia.org/wiki/Nozomi_(train)).  Instead, you'll want to book the moderately slower [Hikari](https://en.wikipedia.org/wiki/Hikari_(train)) which will get you from Tokyo to Osaka in just about 3 hours.  
+
+## Getting around Osaka
+
+## Where to Stay in Osaka
+
+## Attractions
+
+### Dotonburi
+
+### Osaka Aquarium
+
+### Osaka Castle
+
+## Local Lingo and Dialect
+
+## Restaurant Recommendations
+
+
+[JRPass]: /Japan/#jr-pass
+[ICCards]: /Japan/#ic-cards
+
+[Tokyo]: /tokyo/
+[Kyoto]: /kyoto/
+[Japan]: /japan/
+[Hokkaido]: /hokkaido/
+[Shinkansen]: /Japan/#travelling-between-cities-in-japan-and-the-shinkansens

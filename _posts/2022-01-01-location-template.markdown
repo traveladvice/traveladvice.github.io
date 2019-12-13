@@ -14,7 +14,6 @@ Location Description
 
 ## Getting to Location
 
-
 ## Getting around Location
 
 ## Where to Stay in Location
