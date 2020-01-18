@@ -24,6 +24,7 @@ email: traveladvice@chrisrisner.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site features travel advice from my time travelling.  
 baseurl: "" # the subpath of your site, e.g. /blog
+repo_name: 'traveladvice.github.io'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chrisrisner
 github_username:  traveladvice
