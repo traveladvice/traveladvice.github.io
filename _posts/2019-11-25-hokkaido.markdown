@@ -13,9 +13,164 @@ actions:
 ---
 
 
-## Placeholder for article about Hokkaido
+Hokkaido is the largest and northernmost prefecture in Japan.  For all intents and purposes, Hokkaido is also the most northern island in Japan (technically there is an island that is more north but ownership is disputed between Japan and Russia).  Hokkaido is known outside of Japan for a few reasons:
+* The high quality of the powder snow makes it ideal for snow sports.  The town of Niseko is a very popular skiing destination.
+* Hakodate was the Japan's first city whose port was opened to foreign trade.  This occurred in 1854 as a result of the [Convention of Kanagawa](https://en.wikipedia.org/wiki/Convention_of_Kanagawa) which was when Commodore Perry and the United States forcibly opened Japan to trade. 
+* The seafood from Hokkaido is used throughout Japan and is well known for it's high quality.  
+* The capital city of Sapporo and it's Sapporo Beer.
+* The [Ainu](https://en.wikipedia.org/wiki/Ainu_people), who were some of the original indigenous people in Hokkaido (and Russia), have been in the news in recent years due to the country not recognizing them and the discrimination they've endured throughout the years.  Only in April of 2019 did Japan's government pass a bill officially recognizing the Ainu as an indigenous people of Japan.  
+
+Hokkaido, which translates to Northern Sea Route (or road or circuit), is popular in the summer due to it's cooler weather, popular in winter due to the snow, and is a great place to visit.  
+
+I've been to the following places in Hokkaido and will provide some details on each area or the main attraction in that area:
+* [Hakodate][Hakodate]
+* [Noboribetsu][Noboribetsu]
+* [Otaru][Otaru]
+* [Sapporo][Sapporo]
+* [Yoichi][Yoichi]
+
+## Getting to Location
+
+In general there are two primary ways to get to Hokkaido:
+* Flying into Sapporo (New Chitose Airport (CTS))
+* Taking the [shinkansen][shinkansen] north from Honshu (the island Tokyo is on) to Shin-Hakodate and then the Super Hokuto to Sapporo
+
+While New Chitose Airport is an international airport, if you're travelling from the US, it's more likely you'll fly into Tokyo and then connect onto a plane bound for Hokkaido. From New Chitose Airport, you're roughly a 45 minute train ride on the JR Rapid Airport from Sapporo Station.  New Chitose Airport has a number of shops selling made-in Hokkaido snacks and treats as well as your last chance to pick up some Hokkaido seafood before you hop on a plane.  Don't miss the opportunity to buy a few things if you're flying out of Hokkaido.
+
+From Honshu, the island south of Hokkaido and home to [Tokyo][tokyo], [Kyoto][kyoto], and more, you can also take the [Shinkansen][shinkansen], or bullet train, north.  From Tokyo, or a few cities further north where it stops, you can get on the [Tohoku-Hokkadio Shinkansen](https://en.wikipedia.org/wiki/T%C5%8Dhoku_Shinkansen) bound for Shin-Hakodate.  This train traverses the Tsugaru Strait separating Honshu and Hakodate via the [Seikan Tunnel](https://en.wikipedia.org/wiki/Seikan_Tunnel).  The Seikan Tunnel is the world's longest tunnel with an underseas segment.  Once on the Hokkaido side, you'll have a short journey before you disembark at Shin-Hakodate Station.  At this station, which is about 30 minutes north of Hakodate proper, you'll then get on the [Super Hokuto](https://en.wikipedia.org/wiki/Hokuto_(train)) which will take you the rest of the way to Sapporo.  You'll want to have reservations ahead of time for both trains and keep in mind that while it takes roughly four hours to go from Tokyo to Shin-Hakodate, it will take nearly another four hours on the Super Hokuto to get to Sapporo.  They are looking to both expand the bullet train all the way to Sapporo and speed up trains, to make taking the train more competitive with flying, in the future.  Fun fact, if you take the Shinkansen up to Hokkaido, you'll pass through [Aomori City](https://en.wikipedia.org/wiki/Aomori_(city)) which is the snowiest city on Earth, receiving much more snow than Sapporo.  
+
+## Getting around Location
+
+Hokkaido is a big island and getting from one major place to another can take a long time.  If you're just visiting Sapporo, you'll find that there are plenty of subway and train options, though like other non-Tokyo cities, the lack of train coverage does mean you'll still likely walk a good amount.  You'll probably also want to install [JapanTaxi](https://japantaxi.jp/) so you can order taxis on demand.  If you're going from city to city, you'll want to look at what train options there are, and how long they take, as well as what bus options you have.  If you're flying into Sapporo to go skiing, in Niseko for example, many of the ski resorts off transportation options which are worth looking at (especially for your heavy and bulky ski gear which you really don't want to be dragging across Japan).  
+
+## Where to Stay in Hokkaido
+
+I've only spent minimal time in a few different places in Hokkaido so rather than being an exhaustive list or a definitive list of recommendations, I'll only provide brief details on some places to stay.
+
+### [Hakodate][Hakodate]
+
+Hakodate is not the biggest city and there are very few hotels that a western traveler would recognize.  On my one trip to Hakodate, we stayed at the [Four Points by Sheraton](https://www.marriott.com/hotels/travel/hkdfp-four-points-hakodate/).  This is a pretty standard hotel which is located right across the street from Hakodate station.  
+
+### [Noboribetsu][Noboribetsu]
+
+Noboribetsu is a small town located off the main train line between Hakodate and Sapporo and is most well known as being an onsen town.  The geological feature known as *Hell Valley* provides hot, sulferous, water to the spas.  The onsen hotel located a short trip from Noboribetsu station, [Takimotokan](https://takimotokan.co.jp/en) is the largest hotel in the area and is more of an onsen resort than anything else.  
+
+### [Sapporo][Sapporo]
+
+Being the largest city in Hokkaido, Sapporo offers many different options for lodging.  Located adjacent to the main Sapporo Station, the [JR Tower Hotel Nikko Sapporo](https://www.jrhotels.co.jp/tower/english/) is an upscale hotel with amazing views of the surrounding city and easy access to many local attractions thanks to the nearby station.  
+
+## Attractions in Hokkaido
+
+Things to do and attractions have been split into the different cities and towns of Hokkaido.
+
+## Hakodate Attractions
+
+### [Daimon Yokocho](http://www.hakodate-yatai.com/)
+
+This is both attraction and place to eat.  Within a small city block, there are 26 different restaurants.  They're all small and might sport a bar for people to sit around and a few small tables at most.  Options range from okonomiyaki to ramen to yakitori to sushi to French food.  We visited the French restaurant, La Buvette, and the Crab House and both served great food and had friendly service with reasonable English spoken.  Most of these establishments are cash only so make sure you come with enough.
+
+### Gallagher's Pub Bus
+
+This is probably unimportant to most but to the author, it's both a major mystery and a local attraction.  Located not far from the Red-Brick Warehouse buildings, sits a bus with "Gallagher's Eatery & Pub" written on it with the city and phone number for Kalamazoo, Michigan.  This happens to be a restaurant the author spent a great deal of time in during his studies at Western Michigan University.  The restaurant has since shut down but, why, and how, this bus came to be in Hakodate is a mystery if I've ever seen one.  
+
+### [Hakodate Beer](https://www.tripadvisor.com/Restaurant_Review-g298151-d1679033-Reviews-Hakodate_Beer-Hakodate_Hokkaido.html)
+
+Hakodate Beer is the local brewery and located very close to Hakodate Meijikan is their brew pub.  I wouldn't rate this place as amazing and their food was so-so at best.  That said, their beer is decent.
+
+### [Hakodate Meijikan](https://www.hakodate.travel/en/sightseeing_spots/historic-building/hakodate-meijikan)
+
+Formally a post office, this red-brick building with ivy and leaves growing on it's sides is now a unique shopping *mall* with stores selling different types of souvenirs, snacks, toys, and other items.  Particularly unique is the music box store which has hundreds, if not thousands, of music boxes of all varieties.  
+
+### [Hakodateyama Ropeway and Mount Hakodate](https://www.japan-guide.com/e/e5354.html)
+
+Towering above the town is Mount Hakodate.  This mountain offers has a building near the top which offers dining and spectacular views of the town during day and night.  Not far from the Orthodox Church is the Ropeway which will take you to the top.  When you're at the top, make sure you go around to the back side of the observation platform where you can take in the view of the bay.  Fog isn't uncommon so try to factor that in to when you're going to go up.
+
+### [Morning Market](https://www.japan-guide.com/e/e5353.html)
+
+Located just a block or two from the JR Hakodate Station is the Hakodate Morning Market.  This market covers about 4 city blocks including multiple restaurants, two indoor markets, and many outdoor food vendor stalls.  When walking toward the market building, the first door (off of Kaiko St) will be a long hallway with restaurants on both sides.  This will be the easiest place to sample the local seafood that's fresh off of the boats.  Past that first hall is the first indoor market and the one dedicated to seafood.  Here, you'll find all varieties of fish, crab, uni, ikura, and much more.  You can fish for a squid and then have it prepared right in front of you as sashimi.  You can buy a box of uni and then feast upon it.  It's easy to walk through here and be intimidated by some of the seafood you see.  Next up is a more produce and goods focused indoor market.  Further down the street on both sides are food vendors (most selling seafood), food stalls, and restaurants.  While the market is open at least until the afternoon, the morning is when things are most active.  I highly encourage taking the opportunity to get a seafood rice bowl (donburi) while you're at the market (the first hall with all of the restaurants offers many options).  As you are at the home of Uni, getting an Uni Don (while mildly expensive) is a great idea.  If you walk to the end of the street on the west side of the market building (not Kaiko St), you'll find a [small store](https://goo.gl/maps/nv9SVqHFXjvKQ1Q68) that sells ice creams and smoothies.  This is a great chance to try Squid Ink Ice Cream.
+
+### Old British Consulate and Old Public Hall
+
+These two buildings are located close to each other and offer a glimpse of some early, foreign built, buildings that were constructed after Japan opened to trade in the late 1800s.  
+
+### [Russian Orthodox Church](https://www.tripadvisor.com/Attraction_Review-g298151-d2172369-Reviews-Hakodate_Orthodox_Church-Hakodate_Hokkaido.html)
+
+After being opened to trade, many foreign countries built a presence in Japan.  Being one of the first places to open, Hakodate welcomed traders from many countries including nearby Russia.  This Russian Orthodox Church was built for those traders and bearcats who came.  
+
+### [Red-Brick Warehouse District](https://hakodate-kanemori.com/en)
+
+Located along the water are several red-brick warehouse buildings.  Originally used as actual warehouses, these buildings now serve as a sort of shopping / commercial complex.  Within the buildings you'll find souvenir shops of all variety, dining options, a beer hall, as well as a chapel.   
+
+## Sapporo Attractions
+
+### [Former Hokkaido Government Office](https://en.wikipedia.org/wiki/Former_Hokkaid%C5%8D_Government_Office)
+
+This iconic, former, government office building sits in the middle of flower gardens and a park and is a short walk from the train station.  
+
+### [Kinotoya Bake](https://www.kinotoya.com/shop_list/)
+
+There are a few Kinotoya Bakes located in Sapporo though the most convenient one, if you go through the JR Sapporo Station, is [located right by the East entrance / exit](https://goo.gl/maps/J3fjWMw9yL62ggK16).  The Japanese make phenomenal desserts and pastries and you have to try their cheese tarts.  You'll see places like Starbucks selling cheese tarts as well but they don't compare to the ones here.  
+
+### [Maruyama Zoo](https://en.wikipedia.org/wiki/Sapporo_Maruyama_Zoo)
+
+The Maruyama Zoo features animals of all varieties including many from Hokkaido itself.  Located within Maruyama Park, the zoo can be a fun day excursion, especially those travelling with their family.  Don't miss nearby Hokkaido-Jingu Shrine and, slightly further, Okurayama Ski Jump.
+
+### [Nijo Market](https://www.japan-guide.com/e/e5310.html)
+
+Nijo Market is a small public market whose primary focus is on seafood.  Here you can buy fresh seafood as well as find restaurants and drinking establishments.  Located on the main road, just down from most of the seafood vendors, you'll find [Ohiso](https://goo.gl/maps/8p2rcqrAGsy8yGY18) which opens early and serves all variety of seafood bowls.  This is a great place to get an uni donburi or ikura donburi if you're not into uni.  You'll find several other restaurants as well.
+
+### [Okurayama Observatory and Ski Jump](https://en.wikipedia.org/wiki/Okurayama_Ski_Jump_Stadium)
+
+Located on the eastern slope of Mt. Okura, this jump is known for its use in teh 1972 Winter Olympics.  Today, you can ride the ski lift up to the observatory for a panoramic view of Sapporo.  Occasionally, they will run the lift in the evenings as well allowing you to take the city in at night.  Located in one of the buildings at the base is the Winter Sports Museum.  Note that to get to the ski jump, you'll either need to take a bus then walk about ten minutes, or get a taxi.  There may not be taxis waiting to take you away when you're ready to leave so you may want to use JapanTaxi.
+
+### [Pole Town](https://www.tripadvisor.com/Attraction_Review-g298560-d1674657-Reviews-Pole_Town-Sapporo_Hokkaido.html)
+
+Pole Town is effectively an underground shopping complex.  If you're at Sapporo Station and you head south and down, you'll reach an underground pathway that stretches all the way down to Susukino.  Here you'll find department stores, fast food, restaurants, bars, and more.  
+
+### [Sapporo Beer and Museum](https://www.japan-guide.com/e/e5300.html)
+
+Sapporo is, possibly, best known because of Sapporo Beer.  This beer has been brewed in Sapporo since 1877 making it one of the oldest breweries in the country.  Here you'll find the Sapporo Beer Museum, both a lesson on how beer is made and a history of the beer and brewery, as well as the Sapporo Beer Garden.  The Beer Garden features several restaurants including multiple beer halls.  The beer halls are known for the very popular all-you-can-drink and all-you-can-eat mutton BBQ, better known as Genghis Khan.  This is a fun experience and reservations are recommended.  Additionally, every table has plastic bags for you to place jackets and bags in.  You'll want to do this because when you leave, everything you have on will reek of grilled meat to the point where you will not want to wear it until it's washed.  It's highly recommended that you plan what you'll wear around not wearing it again on your trip or washing it.
+
+### [Sapporo Clock Tower](https://en.wikipedia.org/wiki/Sapporo_Clock_Tower)
+
+One of the few surviving Western-style buildings in Sapporo, the Clock Tower is another iconic building in Sapporo and is featured on most tours of the city.  Housed within in a museum on the development of Sapporo.
+
+### [Sapporo Ramen Republic](https://www.sapporostation.com/sapporo-ramen-republic-at-esta-sapporo-ramen-kyowakoku/)
+
+Located on teh 10th floor of the Bic Camera building right by the JR Sapporo Station, the Ramen Republic offers 8 different Hokkaido ramen restaurants.  Each is a representative of a famous ramen place from around Hokkaido.  If you like, or want to try, a specific kind, be sure to look ahead of time so you know which restaurant to go to.  If you're not feeling like ramen, the 10th floor also offers countless other dining options.  
+
+### [Susukino](https://en.wikipedia.org/wiki/Susukino)
+
+The red-light district of Sapporo.  Here you'll find restaurants, bars, hotels, and multiple adult-entertainment establishments.  You'll find many places to get a bite or a drink here, just make sure you know what you're walking into.
+
+## Other Hokkaido Attractions
+
+### [Noboribetsu][Noboribetsu]
+
+Located right off the train line between Hakodate and Sapporo, Noboribetsu is Hokkaido's most famous hot springs town.  The aptly named "Hell Valley" is located just above the resort town and feeds the sulfurous water for most of the onsens (spas).  While the town is located right off the train line, you'll need to take a train, or a bus, from the train station up to the hotel and onsen area.  [Takimotokan](https://takimotokan.co.jp/en) is the largest hotel in the area and is more of an onsen resort.  After checking in, you'll be able to put on your traditional robe (yukata) and go visit the expansive onsen pools, including some outdoor pools.  Note that just about everything is separated by traditional gender here and the primary pool areas are fully nude.  There is a *shared* area below the men and women's areas that you can also use, with proper swimming attire, but there are very few traditional onsen pools in this area.  Also on property are multiple restaurants and bars as well as a great souvenir and gift shop that also carries different food and desserts.  While the town outside the onsen resort does offer some restaurants, the breakfast and dinner buffet at the hotel is quite expansive and features just about every kind of traditional Japanese dish you can think of as well as many more western style foods.   If you're looking for a walk and willing to step away from traditional Japanese food, [Pizzeria Astra](https://m.facebook.com/PizzeriaAstra-%E7%99%BB%E5%88%A5%E6%B8%A9%E6%B3%89-1714005208848841/?locale2=ja_JP) has fantastic pizza as well as local beer.
+
+### [Otaru](https://www.japan-guide.com/e/e6700.html)
+
+Otaru is a small city on Ishikari Bay to the northwest of Sapporo.  A 30-40 minute ride by train from Sapporo station, this little town was formally a a major trade and fishing port this town was formally a huge area for herring fishing and processing.  Otaru is now well known for it's canal with Victorian-style street lamps, [Otaru Beer](https://www.hokkaidobrewingusa.com/otaru-beer), and the glass and musical boxes made there.  Otaru Beer has a restaurant right on the canal which is done up in a medieval style.  If you're looking for locally made glass objects (plates, dishes, glassware, etc.) check out the [Kitacichi Glass Hall and Store](https://kitaichiglass.co.jp/).  Not far from the canal, the brewery, and the glass store, is [Otaru Denuki Koji](https://otaru-denuki.com/en/about_en/) which contains about 20 small restaurants of different varieties (tempura, sushi, wagyu, ramen, etc.).
+
+As an aside, if you're going to continue west from Otaru on the train, they no longer accept IC Cards.  There will be signs at the Otaru station about it.  You should still be fine if you're using a Japan Rail Pass.
+
+### [Yoichi][Yoichi]
+
+Yoichi is a small town about 30 minutes past Otaru if you're heading there from Sapporo.  Importantly, Yoichi is home to the [Nikka Whiskey Yoichi Distillery](https://www.japan-guide.com/e/e6707.html).  Note that to get here from Sapporo, you'll take one train to Otaru, get off, and board another train.  The second train does not accept IC Cards so you'll either need to use a JR Pass or pay for a pass with yen.  The distillery itself is a very short 2 block walk from the train station.  There, you can tour the grounds and see many active buildings and learn about the history of the brand and how it's made.  One of the last buildings you'll see before the sample tasting is the museum which contains many artifacts from the distillery's history and the opportunity to try special whiskey's in their backroom.  The restaurant and sample room let's you try three different expressions that they make.  Finally, the gift shop gives you the opportunity to buy many different whiskeys, whiskey goods, and other souvenirs.  The smart thing may be to head to the store first as they may run out of some of the more exclusive bottles for the day.  Note that you're not as likely to find vintage expressions but you'll still likely save a good amount of money buying bottles of whiskey here compared to being able to find and then pay for it where you live.  They also offer some bottles that are distillery only.  Tours are available but they are in Japanese only.  
+
+You can read more about visiting the distillery [here](https://www.nikka.com/eng/distilleries/yoichi/).
+
+## Restaurant Recommendations
+
+See the specific area above for restaurant ideas.
 
 [Tokyo]: /tokyo/
 [Kyoto]: /kyoto/
 [Japan]: /japan/
 [Shinkansen]: https://en.wikipedia.org/wiki/Shinkansen
+[Hakodate]: https://en.wikipedia.org/wiki/Hakodate
+[Noboribetsu]: https://en.wikipedia.org/wiki/Noboribetsu
+[Otaru]: https://en.wikipedia.org/wiki/Otaru
+[Sapporo]: https://en.wikipedia.org/wiki/Sapporo
+[Yoichi]: https://en.wikipedia.org/wiki/Yoichi,_Hokkaido

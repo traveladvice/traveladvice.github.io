@@ -1,0 +1,64 @@
+---
+title:  "Osaka"
+date:   2019-12-12 10:29:39 -0700
+tags: 
+  - asia 
+  - japan
+  - osaka
+image: /assets/images/japan/osaka-hero.jpg
+actions:
+    - label: "Contribute to this Doc"
+      icon: github
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-12-12-osaka.markdown"
+---
+
+Osaka is the second largest city in Japan, after [Tokyo][tokyo].  In stark contrast to nearby [Kyoto][kyoto], Osaka feels much more like a mega city with skyscrapers everywhere.  Osaka is known for it's food scene and regional dishes include okonomiyaki, takoyaki, udon, and fugu.  My experience with Osaka is limited and you'll find there is much more to see and do than what is listed here.
+
+## Getting to Osaka
+
+In general, there are three ways people get to Osaka:
+* Taking a domestic flight from another airport in Japan to Osaka International Airport (ITM)
+* Taking an international flight into Kansai International Airport (KIX)
+* Flying into Narita or Haneda and taking a [Shikansen][shinkansen]
+
+Flying into either ITM or KIX will mean a train ride somewhere into central Osaka.  KIX is located on an island and further south of the city center than ITM, but it's the more likely airport you'd fly into unless you're flying domestically from elsewhere in Japan.  You should review the sections on [IC Cards][iccards] and the [JR Pass][jrpass] depending on what train lines you may be taking.  
+
+If you're already in Japan in [Tokyo][tokyo], [Kyoto][kyoto], or other nearby cities, you might take the [Shinkansen][shinkansen] into Shin-Osaka station.  From Tokyo, you can get to into Osaka in about 2.5 hours on the fastest bulllet train.  However, if you are making use of a [JR Pass][jrpass], you won't be able to freely use the fastest Shinkansen between these cities, the [Nozomi](https://en.wikipedia.org/wiki/Nozomi_(train)).  Instead, you'll want to book the moderately slower [Hikari](https://en.wikipedia.org/wiki/Hikari_(train)) which will get you from Tokyo to Osaka in just about 3 hours.  
+
+## Getting around Osaka
+
+Like many major cities outside of Tokyo, Osaka does have ample options for public transportation but it's not nearly as pervasive as it is in Tokyo.  There is one primary JR line and a number of different subway lines.  The lack of more JR lines does make the benefit of a [JR Pass][JRPass] somewhat negligible in this city, though still useful for the Osaka Loop.  If you combine the different rail lines and the different busses, it's not difficult to get around.  You'll want to invest in an [IC Card][ICCards] as you'll be able to use these on all train lines as well as the busses.  The busses can be intimidating at first but are easy once you get used to it.  Important to remember is that you enter at the back / middle section of the bus and leave through the front which is when you pay.  Additionally, you may want to install the [JapanTaxi](https://japantaxi.jp/) app to make order taxis easier.  Finally, there is quite a bit online about biking around the city.  You should also assume you'll do a lot of walking.
+
+For Osaka, the three primary trains you're likely to ride are the Midosuji Line (subway), the Chuo Line (subway), and the Osaka Loop Line (JR).  With a bit of walking added on, these trains should get you most places in the city.
+
+## Where to Stay in Osaka
+
+Osaka is home to many different hotels and ryokans.  My only experience staying in Osaka was at the [Moxy Osaka Honmachi](https://www.marriott.com/hotels/travel/osaox-moxy-osaka-honmachi/).  Moxy is a more trendy, hip, line of hotels from Marriott.  Located about a ten minute walk from several subway lines, you can get to anywhere else you're trying to go in Osaka without trouble.  This no-frills hotel is lower in cost and provides a good experience with an excellent shower.  You'll find much higher end hotels elsewhere depending on what you're looking for.  
+
+## Attractions
+
+### [Dotonburi](https://en.wikipedia.org/wiki/D%C5%8Dtonbori)
+
+Dotonburi is a nightlife and entertainment street running along the canal in Osaka.  It also features numerous restaurants and food stalls.  The street, and neighboring canal, are very well known for the illuminated billboards and bright neon lights.  Here you'll find Gilco Man, the Kani Dōraku crab, and many more examples of amazing signage.  No visit to Osaka is complete without a stroll down the street and canal at night with the signs lit up.  You'll also fine countless [takoyaki](https://en.wikipedia.org/wiki/Takoyaki) vendors throughout.  If you're interested in trying [fugu](https://en.wikipedia.org/wiki/Fugu) (pufferfish), look for the giant blowfish lantern outside the restaurant Zubora-ya.
+
+### [Osaka Aquarium Kaiyukan](https://www.kaiyukan.com/language/eng/)
+
+Osaka Aquarium, located on the Northeast end of Osaka Bay, is one of the largest public aquariums in the world.  The largest tank at the aquarium is focused on the Pacific Ocean and features whale sharks, rays, turtles, and many other species.  The aquarium is a brief walk away from Osakako Station and is right next to a large mall with dining options and a giant ferris wheel.  
+
+### [Osaka Castle](https://www.osakacastle.net/english/)
+
+Located within the large urban park known as Castle Osaka Park, Osaka Castle is one of Japan's most notable landmarks and buildings.  For a small fee, you can go into the castle and climb to the observation tower which grants you a great view of the surrounding park and city. For a great, above ground, view of the castle, there is a large building to the Southeast of the castle.  This building houses several restaurants and shops including a bar on the top floor.  You'll need to pay for a drink but after doing so, you'll have a great view of the castle from the side of the roof closest to the center of the park.  The park is located near Osakajo Koen Station and Tanimachi Station.  
+
+## Local Lingo and Dialect
+
+## Restaurant Recommendations
+
+
+[JRPass]: /Japan/#jr-pass
+[ICCards]: /Japan/#ic-cards
+
+[Tokyo]: /tokyo/
+[Kyoto]: /kyoto/
+[Japan]: /japan/
+[Hokkaido]: /hokkaido/
+[Shinkansen]: /Japan/#travelling-between-cities-in-japan-and-the-shinkansens
