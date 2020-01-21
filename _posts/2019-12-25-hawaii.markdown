@@ -11,42 +11,83 @@ actions:
       url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2019-12-25-hawaii.markdown"
 ---
 
-
-## Placeholder for article about Hawaii
+I've spent more time on Kauai than the other islands but I have suggestions for the major islands except for Oahu which I've only done a day trip on.  
 
 ## Kauai
 
-* Na Pali Coast - boat, zodiac, kayak, hike, helicopter, plane
+### Things to Do
+
+* Air Tours - Like the other islands, Kauai offers tours by air via either helicopter or fixed wing planes.  There is an active community of locals who are not happy with the helicopters due to the noise and landings.  Fixed wing planes are a nice alternative though you do miss out on the opportunity to land near some more remote waterfalls.
+* [Captain Andy's Catamaran Cruises](https://www.napali.com/) - Most of the tours they do leave from Eleele which is a bit of a drive depending on where you're at, but, it's worth it.  I've done the snorkel BBQ cruise twice, going to the Na Pali coast the first time and along the south eastern shore of the island the second time (due to poor weather on the coast).  This is a fun way to see the coast on a big, comfortable catamaran.  There are other options (not quite as many as some of the other islands) but Captain Andy has good service and does a good job.  
+* [Kalalua Trail](https://www.kalalautrail.com/) - The Kalalua Trail, on the north side of the island past Hanalei, is famous as one of the best hikes in the world.  It's also a fairly intense hike and there are some pretty strict requirements on hiking it.  The rules were just recently changed in 2019 so it's recommended you look into this one early to try and make sure you're able to hike it when you arrive.  There is a waterfall that is only a few miles in but if you want to make it to the beach at the end, you should plan to start very early or spend the night camping.  This trail is also highly affected by seasons and weather so it's not *hikable by everyone* year round.
+* [Na Pali Coast](https://en.wikipedia.org/wiki/N%C4%81_Pali_Coast_State_Park) - The Na Pali coast is basically the northwest coast of Kauai.  It's undeveloped and mostly a state park which is unaccessible to vehicles and tightly controlled.  The cliffs, or pali, are stunning and should be seen from either the water (a catamaran or zodiac cruise) or the air (helicopter or fixed wing).  You can also kayak into the area but beach landings are highly regulated.
+* [Queen's Bath](https://www.tripadvisor.ca/Attraction_Review-g60626-d586624-Reviews-Queen_s_Bath-Princeville_Kauai_Hawaii.html) - Princeville - The head of the trail to this attraction is amidst houses on the north side of the island in Princeville.  Queen's Bath is a natural pool in the volcanic rock that you can swim in.  That said, this *pool* is very exposed and there are frequent waves that go over the rocks into the pool and then pull back water and people.  Due to many people being swept out to sea and dying, the authorities have put up myriad fences around the trail access so your ability to *properly* get to the trail may be limited.  
+* The Shops at Kuku'ula
+* Sleeping Giant
 * Spouting Horn
 * Tree Tunnel
 * Waimea Canyon
-* Hiking
-** KA Trail
-** Queensbath
-** Sleeping Giant
-* Restaurants
-** Beach House
-** Bubba Burger
-** Tide Pools
-** Dukes
+
+### Places to Stay
+
+* Lihue Marriott Resort
+* Grand Hyatt Kauai Resort - Poipu
+* Ko'a Kea - Poipu
+* Marriott Waiohai Beach Club - Poipu
+* Princeville Resort
+
+### Restaurants
+
+* Bar Acuda - Hanalei
+* Beach House - Poipu
+* Bubba Burger - Multiple Locations
+* Dukes - Lihue
+* Hukilau Lanai - Wailua
+* Kalypso Island Bar and Grill - Hanalei
+* Makai Grill - Princeville
+* [North Shore General Store](http://pizzakauai.com/) - Princeville - Actually the shop at the gas station at the entrance to Princeville (the same location as the Foodland) this store actually has really great food.  Pick up some breakfast or get a burger or pizza for lunch.  
+* Red Salt - Poipu
+* Tide Pools - Poipu
+
 
 ## Maui
 
-* Road to Hana
+### Things to Do
+
 * Glass bottom kayak in Wailea
-* Restaurants
-** Mama's Fish House
-** Monkeypod
-** Star Noodle
+* Road to Hana
+
+### Places to Stay
+
+* Westin
+
+### Restaurants
+
+* Mama's Fish House
+* Monkeypod
+* Star Noodle
+
+
+
 
 ## Big Island
 
-* Volcano
+### Things to Do
+
 * Hilo
-* Hawaii Nui Brewing
-* Big Island Brewhaus
-* Kona Brewing
 * Manta Ray Night Snorkel
-* Restaurants
-** Browns
-** 
+* Volcano
+
+### Places to Stay
+
+* Fairmont Orchid
+* Sheraton
+
+### Restaurants
+
+* Hawaii Nui Brewing
+* Kona Brewing
+* Browns
+
+
+
