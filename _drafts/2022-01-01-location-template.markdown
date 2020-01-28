@@ -7,7 +7,7 @@ image: /assets/images/japan/kyoto-hero.jpg
 actions:
     - label: "Contribute to this Doc"
       icon: github
-      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2020-01-01-location-template.markdown"
+      url: "https://github.com/traveladvice/traveladvice.github.io/blob/master/_posts/2022-01-01-location-template.markdown"
 ---
 
 Location Description
