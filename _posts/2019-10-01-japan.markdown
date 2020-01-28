@@ -47,7 +47,11 @@ There are many sites that you can order a JR Pass from and you must order it pri
 
 Japan is a very *tall* country stretching from tropical islands of Okinawa in the south to [humid continental](https://en.wikipedia.org/wiki/Humid_continental_climate) [Hokkaido](hokkaido) in the north.  That means  that you could be encountering a very wide variety of weather depending on where you're going and what time of year you're going.  
 
-## Convience Stores (Konbini)
+## Restaurant Reservations
+
+When it comes to dining, reservations are generally highly recommended.  There are thousands upon thousands of restaurants in every major city and plenty of restaurants in the smaller places.  Your chances of getting into a place will be much higher if you've secured a reservation ahead of time.  Anything resembling a Michelin star restaurant will require one.  To get a reservation, your best bet is to go through your hotel concierge.  Note that they will likely require a credit card to hold a reservation regardless of if the restaurant takes credit cards or not.  **VERY IMPORTANTLY** when it comes to reservations, do your utmost to not need late changes or cancellations.  You may be used to things being more fluid where you're from but in Japan, cancellations or late changes are looked down upon.  
+
+## Convenience Stores (Konbini)
 
 Convenience Stores, or konbini, are everywhere in Japan.  The three big chains are 7-11, Family Mart, and Lawsons.  On top of being a reliable place to use your ATM card, these places are great for a snack and a drink.  The food isn't what you're used to if you're familiar with American convenience stores though and is actually very good and frequently eaten by normal Japanese people.  I'll frequently get a couple of [onigiri (rice balls)](https://www.tsunagujapan.com/guide-to-convenience-store-onigiri/) or a sando along with a cold green tea for breakfast and come in under $5 USD.  The stores will always take credit cards.  If you're buying alcohol, be prepared to press a button on the screen to indicate you are old enough to buy alcohol.
 
@@ -133,10 +137,6 @@ While included in the food list below, ekiben deserve their own section.  In any
 * [Suica Cards](http://www.jreast.co.jp/e/pass/suica.html)
 * [Buying a Suica Card online](https://www.japan-rail-pass.com/services/suica-card)
 * [Ryokan](https://en.wikipedia.org/wiki/Ryokan_(inn))
-
-
-## Todo:
-Religion in Japan
 
 
 [Tokyo]: /tokyo/
